@@ -1,0 +1,6754 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "station_id": "58443",
+      "station_name": "长兴",
+      "Lon": "119.89",
+      "Lat": "31.02",
+      "TEM_Max": "21.7",
+      "TEM_Min": "13.6",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "2",
+      "station_id": "58444",
+      "station_name": "余杭",
+      "Lon": "120.28",
+      "Lat": "30.42",
+      "TEM_Max": "23.6",
+      "TEM_Min": "14.3",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "3",
+      "station_id": "58446",
+      "station_name": "安吉",
+      "Lon": "119.7",
+      "Lat": "30.63",
+      "TEM_Max": "24.3",
+      "TEM_Min": "12.3",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "4",
+      "station_id": "58448",
+      "station_name": "临安",
+      "Lon": "119.7",
+      "Lat": "30.22",
+      "TEM_Max": "23.8",
+      "TEM_Min": "13.3",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "5",
+      "station_id": "58449",
+      "station_name": "富阳",
+      "Lon": "119.95",
+      "Lat": "30.05",
+      "TEM_Max": "25.2",
+      "TEM_Min": "14.5",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "6",
+      "station_id": "58450",
+      "station_name": "湖州",
+      "Lon": "120.05",
+      "Lat": "30.87",
+      "TEM_Max": "23.2",
+      "TEM_Min": "13.4",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "7",
+      "station_id": "58451",
+      "station_name": "嘉善",
+      "Lon": "120.93",
+      "Lat": "30.83",
+      "TEM_Max": "22.6",
+      "TEM_Min": "12.4",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "8",
+      "station_id": "58452",
+      "station_name": "嘉兴",
+      "Lon": "120.77",
+      "Lat": "30.73",
+      "TEM_Max": "22.2",
+      "TEM_Min": "13.3",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "9",
+      "station_id": "58453",
+      "station_name": "绍兴",
+      "Lon": "120.5",
+      "Lat": "30.07",
+      "TEM_Max": "24.3",
+      "TEM_Min": "15.8",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "10",
+      "station_id": "58454",
+      "station_name": "德清",
+      "Lon": "119.98",
+      "Lat": "30.53",
+      "TEM_Max": "23.5",
+      "TEM_Min": "13.3",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "11",
+      "station_id": "58455",
+      "station_name": "海宁",
+      "Lon": "120.48",
+      "Lat": "30.47",
+      "TEM_Max": "24.8",
+      "TEM_Min": "12",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "12",
+      "station_id": "58456",
+      "station_name": "桐乡",
+      "Lon": "120.52",
+      "Lat": "30.63",
+      "TEM_Max": "23.6",
+      "TEM_Min": "14.1",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "13",
+      "station_id": "58457",
+      "station_name": "杭州",
+      "Lon": "120.17",
+      "Lat": "30.23",
+      "TEM_Max": "23.6",
+      "TEM_Min": "14.8",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "14",
+      "station_id": "58458",
+      "station_name": "海盐",
+      "Lon": "120.9",
+      "Lat": "30.53",
+      "TEM_Max": "22.4",
+      "TEM_Min": "15.1",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "15",
+      "station_id": "58459",
+      "station_name": "萧山",
+      "Lon": "120.28",
+      "Lat": "30.18",
+      "TEM_Max": "23.4",
+      "TEM_Min": "15",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "16",
+      "station_id": "58464",
+      "station_name": "平湖",
+      "Lon": "121.12",
+      "Lat": "30.65",
+      "TEM_Max": "21.5",
+      "TEM_Min": "15.1",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "17",
+      "station_id": "58467",
+      "station_name": "慈溪",
+      "Lon": "121.3",
+      "Lat": "30.2",
+      "TEM_Max": "24.3",
+      "TEM_Min": "13.2",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "18",
+      "station_id": "58468",
+      "station_name": "余姚",
+      "Lon": "121.13",
+      "Lat": "30.02",
+      "TEM_Max": "24.7",
+      "TEM_Min": "14.4",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "19",
+      "station_id": "58472",
+      "station_name": "嵊泗",
+      "Lon": "122.45",
+      "Lat": "30.73",
+      "TEM_Max": "21.2",
+      "TEM_Min": "16.4",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "20",
+      "station_id": "58477",
+      "station_name": "定海",
+      "Lon": "122.1",
+      "Lat": "30.03",
+      "TEM_Max": "23.7",
+      "TEM_Min": "14.5",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "21",
+      "station_id": "58484",
+      "station_name": "岱山",
+      "Lon": "122.2",
+      "Lat": "30.25",
+      "TEM_Max": "22.8",
+      "TEM_Min": "17.6",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "22",
+      "station_id": "58537",
+      "station_name": "开化",
+      "Lon": "118.4",
+      "Lat": "29.13",
+      "TEM_Max": "23",
+      "TEM_Min": "14.8",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "23",
+      "station_id": "58542",
+      "station_name": "桐庐",
+      "Lon": "119.68",
+      "Lat": "29.82",
+      "TEM_Max": "23.6",
+      "TEM_Min": "14.5",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "24",
+      "station_id": "58543",
+      "station_name": "淳安",
+      "Lon": "119.02",
+      "Lat": "29.62",
+      "TEM_Max": "21.6",
+      "TEM_Min": "15.6",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "25",
+      "station_id": "58544",
+      "station_name": "建德",
+      "Lon": "119.27",
+      "Lat": "29.48",
+      "TEM_Max": "22",
+      "TEM_Min": "14.1",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "26",
+      "station_id": "58546",
+      "station_name": "浦江",
+      "Lon": "119.88",
+      "Lat": "29.47",
+      "TEM_Max": "24.9",
+      "TEM_Min": "13.6",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "27",
+      "station_id": "58547",
+      "station_name": "龙游南",
+      "Lon": "119.19",
+      "Lat": "29.04",
+      "TEM_Max": "23.3",
+      "TEM_Min": "15.7",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "28",
+      "station_id": "58548",
+      "station_name": "兰溪",
+      "Lon": "119.48",
+      "Lat": "29.22",
+      "TEM_Max": "23",
+      "TEM_Min": "15.6",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "29",
+      "station_id": "58549",
+      "station_name": "金华",
+      "Lon": "119.65",
+      "Lat": "29.12",
+      "TEM_Max": "25.1",
+      "TEM_Min": "16.7",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "30",
+      "station_id": "58550",
+      "station_name": "诸暨",
+      "Lon": "120.25",
+      "Lat": "29.7",
+      "TEM_Max": "25.3",
+      "TEM_Min": "15.2",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "31",
+      "station_id": "58553",
+      "station_name": "上虞",
+      "Lon": "120.82",
+      "Lat": "30.05",
+      "TEM_Max": "24.1",
+      "TEM_Min": "14.7",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "32",
+      "station_id": "58555",
+      "station_name": "新昌",
+      "Lon": "120.88",
+      "Lat": "29.52",
+      "TEM_Max": "26.5",
+      "TEM_Min": "14.7",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "33",
+      "station_id": "58556",
+      "station_name": "嵊州",
+      "Lon": "120.82",
+      "Lat": "29.6",
+      "TEM_Max": "25.7",
+      "TEM_Min": "14.8",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "34",
+      "station_id": "58557",
+      "station_name": "义乌",
+      "Lon": "120.08",
+      "Lat": "29.33",
+      "TEM_Max": "25.1",
+      "TEM_Min": "14.5",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "35",
+      "station_id": "58558",
+      "station_name": "东阳",
+      "Lon": "120.22",
+      "Lat": "29.27",
+      "TEM_Max": "25.5",
+      "TEM_Min": "15.6",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "36",
+      "station_id": "58559",
+      "station_name": "天台",
+      "Lon": "120.97",
+      "Lat": "29.15",
+      "TEM_Max": "26.3",
+      "TEM_Min": "13.3",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "37",
+      "station_id": "58560",
+      "station_name": "磐安",
+      "Lon": "120.43",
+      "Lat": "29.05",
+      "TEM_Max": "25.5",
+      "TEM_Min": "12.8",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "38",
+      "station_id": "58561",
+      "station_name": "镇海",
+      "Lon": "121.6",
+      "Lat": "29.98",
+      "TEM_Max": "25.3",
+      "TEM_Min": "12.1",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "39",
+      "station_id": "58562",
+      "station_name": "鄞州",
+      "Lon": "121.5",
+      "Lat": "29.8",
+      "TEM_Max": "25.3",
+      "TEM_Min": "14.3",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "40",
+      "station_id": "58563",
+      "station_name": "北仑",
+      "Lon": "121.83",
+      "Lat": "29.88",
+      "TEM_Max": "24.8",
+      "TEM_Min": "13.7",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "41",
+      "station_id": "58565",
+      "station_name": "奉化",
+      "Lon": "121.38",
+      "Lat": "29.7",
+      "TEM_Max": "26",
+      "TEM_Min": "14.1",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "42",
+      "station_id": "58566",
+      "station_name": "象山",
+      "Lon": "121.92",
+      "Lat": "29.38",
+      "TEM_Max": "23.2",
+      "TEM_Min": "15.6",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "43",
+      "station_id": "58567",
+      "station_name": "宁海",
+      "Lon": "121.43",
+      "Lat": "29.32",
+      "TEM_Max": "24",
+      "TEM_Min": "14.1",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "44",
+      "station_id": "58568",
+      "station_name": "三门",
+      "Lon": "121.38",
+      "Lat": "29.12",
+      "TEM_Max": "23.7",
+      "TEM_Min": "13.6",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "45",
+      "station_id": "58569",
+      "station_name": "石浦",
+      "Lon": "121.95",
+      "Lat": "29.2",
+      "TEM_Max": "24.3",
+      "TEM_Min": "16.4",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "46",
+      "station_id": "58570",
+      "station_name": "普陀",
+      "Lon": "122.3",
+      "Lat": "29.95",
+      "TEM_Max": "25",
+      "TEM_Min": "16.5",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "47",
+      "station_id": "58631",
+      "station_name": "常山",
+      "Lon": "118.5",
+      "Lat": "28.9",
+      "TEM_Max": "23.9",
+      "TEM_Min": "16.1",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "48",
+      "station_id": "58632",
+      "station_name": "江山",
+      "Lon": "118.6",
+      "Lat": "28.72",
+      "TEM_Max": "22.8",
+      "TEM_Min": "16.3",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "49",
+      "station_id": "58633",
+      "station_name": "衢州",
+      "Lon": "118.9",
+      "Lat": "29",
+      "TEM_Max": "22.9",
+      "TEM_Min": "16",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "50",
+      "station_id": "58642",
+      "station_name": "武义",
+      "Lon": "119.8",
+      "Lat": "28.88",
+      "TEM_Max": "26",
+      "TEM_Min": "15.6",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "51",
+      "station_id": "58643",
+      "station_name": "永康",
+      "Lon": "120.03",
+      "Lat": "28.9",
+      "TEM_Max": "26.7",
+      "TEM_Min": "16.3",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "52",
+      "station_id": "58644",
+      "station_name": "遂昌",
+      "Lon": "119.28",
+      "Lat": "28.6",
+      "TEM_Max": "25.1",
+      "TEM_Min": "15",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "53",
+      "station_id": "58645",
+      "station_name": "松阳",
+      "Lon": "119.48",
+      "Lat": "28.43",
+      "TEM_Max": "26.9",
+      "TEM_Min": "15.3",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "54",
+      "station_id": "58646",
+      "station_name": "丽水",
+      "Lon": "119.93",
+      "Lat": "28.47",
+      "TEM_Max": "27.6",
+      "TEM_Min": "16.1",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "55",
+      "station_id": "58647",
+      "station_name": "龙泉",
+      "Lon": "119.13",
+      "Lat": "28.08",
+      "TEM_Max": "27.7",
+      "TEM_Min": "15.2",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "56",
+      "station_id": "58648",
+      "station_name": "景宁",
+      "Lon": "119.63",
+      "Lat": "28",
+      "TEM_Max": "27",
+      "TEM_Min": "14.9",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "57",
+      "station_id": "58652",
+      "station_name": "仙居",
+      "Lon": "120.72",
+      "Lat": "28.87",
+      "TEM_Max": "25.9",
+      "TEM_Min": "14.6",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "58",
+      "station_id": "58654",
+      "station_name": "缙云",
+      "Lon": "120.08",
+      "Lat": "28.67",
+      "TEM_Max": "27.3",
+      "TEM_Min": "15.5",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "59",
+      "station_id": "58656",
+      "station_name": "乐清市清远路",
+      "Lon": "120.97",
+      "Lat": "28.07",
+      "TEM_Max": "24.1",
+      "TEM_Min": "15.9",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "60",
+      "station_id": "58657",
+      "station_name": "青田",
+      "Lon": "120.28",
+      "Lat": "28.13",
+      "TEM_Max": "25.8",
+      "TEM_Min": "15.9",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "61",
+      "station_id": "58658",
+      "station_name": "永嘉",
+      "Lon": "120.68",
+      "Lat": "28.15",
+      "TEM_Max": "26.6",
+      "TEM_Min": "15.1",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "62",
+      "station_id": "58659",
+      "station_name": "温州市海坦山路",
+      "Lon": "120.65",
+      "Lat": "28.03",
+      "TEM_Max": "25.9",
+      "TEM_Min": "15.9",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "63",
+      "station_id": "58660",
+      "station_name": "临海",
+      "Lon": "121.18",
+      "Lat": "28.87",
+      "TEM_Max": "25.3",
+      "TEM_Min": "13.5",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "64",
+      "station_id": "58664",
+      "station_name": "温岭",
+      "Lon": "121.37",
+      "Lat": "28.37",
+      "TEM_Max": "25",
+      "TEM_Min": "15.5",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "65",
+      "station_id": "58665",
+      "station_name": "椒江",
+      "Lon": "121.42",
+      "Lat": "28.62",
+      "TEM_Max": "23.8",
+      "TEM_Min": "16.5",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "66",
+      "station_id": "58666",
+      "station_name": "大陈",
+      "Lon": "121.9",
+      "Lat": "28.45",
+      "TEM_Max": "22.7",
+      "TEM_Min": "18.1",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "67",
+      "station_id": "58667",
+      "station_name": "玉环县坎门街道东山头",
+      "Lon": "121.27",
+      "Lat": "28.08",
+      "TEM_Max": "24.9",
+      "TEM_Min": "15.7",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "68",
+      "station_id": "58742",
+      "station_name": "云和",
+      "Lon": "119.57",
+      "Lat": "28.1",
+      "TEM_Max": "27.4",
+      "TEM_Min": "15.2",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "69",
+      "station_id": "58745",
+      "station_name": "庆元",
+      "Lon": "119.08",
+      "Lat": "27.62",
+      "TEM_Max": "28.1",
+      "TEM_Min": "15.4",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "70",
+      "station_id": "58746",
+      "station_name": "泰顺",
+      "Lon": "119.7",
+      "Lat": "27.55",
+      "TEM_Max": "25.2",
+      "TEM_Min": "13.6",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "71",
+      "station_id": "58750",
+      "station_name": "文成",
+      "Lon": "133.99",
+      "Lat": "34.73",
+      "TEM_Max": "25.9",
+      "TEM_Min": "15.7",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "72",
+      "station_id": "58751",
+      "station_name": "平阳",
+      "Lon": "120.57",
+      "Lat": "27.67",
+      "TEM_Max": "22.9",
+      "TEM_Min": "15",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "73",
+      "station_id": "58752",
+      "station_name": "瑞安",
+      "Lon": "120.65",
+      "Lat": "27.79",
+      "TEM_Max": "24.5",
+      "TEM_Min": "16.7",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "74",
+      "station_id": "58755",
+      "station_name": "苍南",
+      "Lon": "120.39",
+      "Lat": "27.5",
+      "TEM_Max": "24.3",
+      "TEM_Min": "15.5",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "75",
+      "station_id": "58760",
+      "station_name": "洞头",
+      "Lon": "121.15",
+      "Lat": "27.83",
+      "TEM_Max": "22.8",
+      "TEM_Min": "17.9",
+      "datetime": "26/10/2020 00:00:00"
+    },
+    {
+      "id": "76",
+      "station_id": "58443",
+      "station_name": "长兴",
+      "Lon": "119.89",
+      "Lat": "31.02",
+      "TEM_Max": "22.2",
+      "TEM_Min": "15.8",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "77",
+      "station_id": "58444",
+      "station_name": "余杭",
+      "Lon": "120.28",
+      "Lat": "30.42",
+      "TEM_Max": "25.2",
+      "TEM_Min": "16",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "78",
+      "station_id": "58446",
+      "station_name": "安吉",
+      "Lon": "119.7",
+      "Lat": "30.63",
+      "TEM_Max": "23.5",
+      "TEM_Min": "15.3",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "79",
+      "station_id": "58448",
+      "station_name": "临安",
+      "Lon": "119.7",
+      "Lat": "30.22",
+      "TEM_Max": "23.1",
+      "TEM_Min": "16.1",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "80",
+      "station_id": "58449",
+      "station_name": "富阳",
+      "Lon": "119.95",
+      "Lat": "30.05",
+      "TEM_Max": "24.1",
+      "TEM_Min": "16.8",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "81",
+      "station_id": "58450",
+      "station_name": "湖州",
+      "Lon": "120.05",
+      "Lat": "30.87",
+      "TEM_Max": "24.1",
+      "TEM_Min": "16.2",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "82",
+      "station_id": "58451",
+      "station_name": "嘉善",
+      "Lon": "120.93",
+      "Lat": "30.83",
+      "TEM_Max": "22.4",
+      "TEM_Min": "15.2",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "83",
+      "station_id": "58452",
+      "station_name": "嘉兴",
+      "Lon": "120.77",
+      "Lat": "30.73",
+      "TEM_Max": "22.3",
+      "TEM_Min": "16.7",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "84",
+      "station_id": "58453",
+      "station_name": "绍兴",
+      "Lon": "120.5",
+      "Lat": "30.07",
+      "TEM_Max": "23.8",
+      "TEM_Min": "17",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "85",
+      "station_id": "58454",
+      "station_name": "德清",
+      "Lon": "119.98",
+      "Lat": "30.53",
+      "TEM_Max": "22.7",
+      "TEM_Min": "15.6",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "86",
+      "station_id": "58455",
+      "station_name": "海宁",
+      "Lon": "120.48",
+      "Lat": "30.47",
+      "TEM_Max": "23.3",
+      "TEM_Min": "13.9",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "87",
+      "station_id": "58456",
+      "station_name": "桐乡",
+      "Lon": "120.52",
+      "Lat": "30.63",
+      "TEM_Max": "23",
+      "TEM_Min": "17.3",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "88",
+      "station_id": "58457",
+      "station_name": "杭州",
+      "Lon": "120.17",
+      "Lat": "30.23",
+      "TEM_Max": "23.5",
+      "TEM_Min": "16.8",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "89",
+      "station_id": "58458",
+      "station_name": "海盐",
+      "Lon": "120.9",
+      "Lat": "30.53",
+      "TEM_Max": "21.7",
+      "TEM_Min": "18.3",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "90",
+      "station_id": "58459",
+      "station_name": "萧山",
+      "Lon": "120.28",
+      "Lat": "30.18",
+      "TEM_Max": "23.1",
+      "TEM_Min": "16.8",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "91",
+      "station_id": "58464",
+      "station_name": "平湖",
+      "Lon": "121.12",
+      "Lat": "30.65",
+      "TEM_Max": "21.9",
+      "TEM_Min": "18",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "92",
+      "station_id": "58467",
+      "station_name": "慈溪",
+      "Lon": "121.3",
+      "Lat": "30.2",
+      "TEM_Max": "23",
+      "TEM_Min": "14.4",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "93",
+      "station_id": "58468",
+      "station_name": "余姚",
+      "Lon": "121.13",
+      "Lat": "30.02",
+      "TEM_Max": "24",
+      "TEM_Min": "16.4",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "94",
+      "station_id": "58472",
+      "station_name": "嵊泗",
+      "Lon": "122.45",
+      "Lat": "30.73",
+      "TEM_Max": "20.5",
+      "TEM_Min": "17.4",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "95",
+      "station_id": "58477",
+      "station_name": "定海",
+      "Lon": "122.1",
+      "Lat": "30.03",
+      "TEM_Max": "23.1",
+      "TEM_Min": "15.6",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "96",
+      "station_id": "58484",
+      "station_name": "岱山",
+      "Lon": "122.2",
+      "Lat": "30.25",
+      "TEM_Max": "23.3",
+      "TEM_Min": "17.6",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "97",
+      "station_id": "58537",
+      "station_name": "开化",
+      "Lon": "118.4",
+      "Lat": "29.13",
+      "TEM_Max": "25.2",
+      "TEM_Min": "16.4",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "98",
+      "station_id": "58542",
+      "station_name": "桐庐",
+      "Lon": "119.68",
+      "Lat": "29.82",
+      "TEM_Max": "23.8",
+      "TEM_Min": "16.8",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "99",
+      "station_id": "58543",
+      "station_name": "淳安",
+      "Lon": "119.02",
+      "Lat": "29.62",
+      "TEM_Max": "25.3",
+      "TEM_Min": "17.5",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "100",
+      "station_id": "58544",
+      "station_name": "建德",
+      "Lon": "119.27",
+      "Lat": "29.48",
+      "TEM_Max": "24.9",
+      "TEM_Min": "16.1",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "101",
+      "station_id": "58546",
+      "station_name": "浦江",
+      "Lon": "119.88",
+      "Lat": "29.47",
+      "TEM_Max": "24.8",
+      "TEM_Min": "16.6",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "102",
+      "station_id": "58547",
+      "station_name": "龙游南",
+      "Lon": "119.19",
+      "Lat": "29.04",
+      "TEM_Max": "25",
+      "TEM_Min": "17.6",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "103",
+      "station_id": "58548",
+      "station_name": "兰溪",
+      "Lon": "119.48",
+      "Lat": "29.22",
+      "TEM_Max": "26.1",
+      "TEM_Min": "18.3",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "104",
+      "station_id": "58549",
+      "station_name": "金华",
+      "Lon": "119.65",
+      "Lat": "29.12",
+      "TEM_Max": "25.1",
+      "TEM_Min": "18.6",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "105",
+      "station_id": "58550",
+      "station_name": "诸暨",
+      "Lon": "120.25",
+      "Lat": "29.7",
+      "TEM_Max": "25.2",
+      "TEM_Min": "17.5",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "106",
+      "station_id": "58553",
+      "station_name": "上虞",
+      "Lon": "120.82",
+      "Lat": "30.05",
+      "TEM_Max": "23.7",
+      "TEM_Min": "15.5",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "107",
+      "station_id": "58555",
+      "station_name": "新昌",
+      "Lon": "120.88",
+      "Lat": "29.52",
+      "TEM_Max": "24.6",
+      "TEM_Min": "17",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "108",
+      "station_id": "58556",
+      "station_name": "嵊州",
+      "Lon": "120.82",
+      "Lat": "29.6",
+      "TEM_Max": "24.7",
+      "TEM_Min": "17.1",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "109",
+      "station_id": "58557",
+      "station_name": "义乌",
+      "Lon": "120.08",
+      "Lat": "29.33",
+      "TEM_Max": "24.9",
+      "TEM_Min": "17.6",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "110",
+      "station_id": "58558",
+      "station_name": "东阳",
+      "Lon": "120.22",
+      "Lat": "29.27",
+      "TEM_Max": "25.3",
+      "TEM_Min": "18.6",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "111",
+      "station_id": "58559",
+      "station_name": "天台",
+      "Lon": "120.97",
+      "Lat": "29.15",
+      "TEM_Max": "24.7",
+      "TEM_Min": "16.8",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "112",
+      "station_id": "58560",
+      "station_name": "磐安",
+      "Lon": "120.43",
+      "Lat": "29.05",
+      "TEM_Max": "25.3",
+      "TEM_Min": "16.1",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "113",
+      "station_id": "58561",
+      "station_name": "镇海",
+      "Lon": "121.6",
+      "Lat": "29.98",
+      "TEM_Max": "23.9",
+      "TEM_Min": "13.5",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "114",
+      "station_id": "58562",
+      "station_name": "鄞州",
+      "Lon": "121.5",
+      "Lat": "29.8",
+      "TEM_Max": "24.1",
+      "TEM_Min": "15.9",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "115",
+      "station_id": "58563",
+      "station_name": "北仑",
+      "Lon": "121.83",
+      "Lat": "29.88",
+      "TEM_Max": "23.8",
+      "TEM_Min": "15",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "116",
+      "station_id": "58565",
+      "station_name": "奉化",
+      "Lon": "121.38",
+      "Lat": "29.7",
+      "TEM_Max": "25",
+      "TEM_Min": "15.7",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "117",
+      "station_id": "58566",
+      "station_name": "象山",
+      "Lon": "121.92",
+      "Lat": "29.38",
+      "TEM_Max": "23.6",
+      "TEM_Min": "16",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "118",
+      "station_id": "58567",
+      "station_name": "宁海",
+      "Lon": "121.43",
+      "Lat": "29.32",
+      "TEM_Max": "23.4",
+      "TEM_Min": "16.4",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "119",
+      "station_id": "58568",
+      "station_name": "三门",
+      "Lon": "121.38",
+      "Lat": "29.12",
+      "TEM_Max": "25.1",
+      "TEM_Min": "16.4",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "120",
+      "station_id": "58569",
+      "station_name": "石浦",
+      "Lon": "121.95",
+      "Lat": "29.2",
+      "TEM_Max": "24.7",
+      "TEM_Min": "17.7",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "121",
+      "station_id": "58570",
+      "station_name": "普陀",
+      "Lon": "122.3",
+      "Lat": "29.95",
+      "TEM_Max": "23.5",
+      "TEM_Min": "17.1",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "122",
+      "station_id": "58631",
+      "station_name": "常山",
+      "Lon": "118.5",
+      "Lat": "28.9",
+      "TEM_Max": "26.1",
+      "TEM_Min": "17.5",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "123",
+      "station_id": "58632",
+      "station_name": "江山",
+      "Lon": "118.6",
+      "Lat": "28.72",
+      "TEM_Max": "24.8",
+      "TEM_Min": "18.2",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "124",
+      "station_id": "58633",
+      "station_name": "衢州",
+      "Lon": "118.9",
+      "Lat": "29",
+      "TEM_Max": "25.4",
+      "TEM_Min": "17.6",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "125",
+      "station_id": "58642",
+      "station_name": "武义",
+      "Lon": "119.8",
+      "Lat": "28.88",
+      "TEM_Max": "26.5",
+      "TEM_Min": "17.2",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "126",
+      "station_id": "58643",
+      "station_name": "永康",
+      "Lon": "120.03",
+      "Lat": "28.9",
+      "TEM_Max": "26.2",
+      "TEM_Min": "19",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "127",
+      "station_id": "58644",
+      "station_name": "遂昌",
+      "Lon": "119.28",
+      "Lat": "28.6",
+      "TEM_Max": "27.1",
+      "TEM_Min": "17",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "128",
+      "station_id": "58645",
+      "station_name": "松阳",
+      "Lon": "119.48",
+      "Lat": "28.43",
+      "TEM_Max": "28",
+      "TEM_Min": "17.8",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "129",
+      "station_id": "58646",
+      "station_name": "丽水",
+      "Lon": "119.93",
+      "Lat": "28.47",
+      "TEM_Max": "28.3",
+      "TEM_Min": "18.3",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "130",
+      "station_id": "58647",
+      "station_name": "龙泉",
+      "Lon": "119.13",
+      "Lat": "28.08",
+      "TEM_Max": "28.8",
+      "TEM_Min": "18.5",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "131",
+      "station_id": "58648",
+      "station_name": "景宁",
+      "Lon": "119.63",
+      "Lat": "28",
+      "TEM_Max": "25.8",
+      "TEM_Min": "17.8",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "132",
+      "station_id": "58652",
+      "station_name": "仙居",
+      "Lon": "120.72",
+      "Lat": "28.87",
+      "TEM_Max": "25.3",
+      "TEM_Min": "17.5",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "133",
+      "station_id": "58654",
+      "station_name": "缙云",
+      "Lon": "120.08",
+      "Lat": "28.67",
+      "TEM_Max": "27.3",
+      "TEM_Min": "17",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "134",
+      "station_id": "58656",
+      "station_name": "乐清市清远路",
+      "Lon": "120.97",
+      "Lat": "28.07",
+      "TEM_Max": "24.8",
+      "TEM_Min": "17.5",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "135",
+      "station_id": "58657",
+      "station_name": "青田",
+      "Lon": "120.28",
+      "Lat": "28.13",
+      "TEM_Max": "25.2",
+      "TEM_Min": "17.9",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "136",
+      "station_id": "58658",
+      "station_name": "永嘉",
+      "Lon": "120.68",
+      "Lat": "28.15",
+      "TEM_Max": "27.5",
+      "TEM_Min": "16",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "137",
+      "station_id": "58659",
+      "station_name": "温州市海坦山路",
+      "Lon": "120.65",
+      "Lat": "28.03",
+      "TEM_Max": "26.2",
+      "TEM_Min": "17.4",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "138",
+      "station_id": "58660",
+      "station_name": "临海",
+      "Lon": "121.18",
+      "Lat": "28.87",
+      "TEM_Max": "25.5",
+      "TEM_Min": "16.2",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "139",
+      "station_id": "58664",
+      "station_name": "温岭",
+      "Lon": "121.37",
+      "Lat": "28.37",
+      "TEM_Max": "25.4",
+      "TEM_Min": "17",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "140",
+      "station_id": "58665",
+      "station_name": "椒江",
+      "Lon": "121.42",
+      "Lat": "28.62",
+      "TEM_Max": "23.6",
+      "TEM_Min": "18.4",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "141",
+      "station_id": "58666",
+      "station_name": "大陈",
+      "Lon": "121.9",
+      "Lat": "28.45",
+      "TEM_Max": "22.8",
+      "TEM_Min": "19.5",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "142",
+      "station_id": "58667",
+      "station_name": "玉环县坎门街道东山头",
+      "Lon": "121.27",
+      "Lat": "28.08",
+      "TEM_Max": "24.5",
+      "TEM_Min": "17.6",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "143",
+      "station_id": "58742",
+      "station_name": "云和",
+      "Lon": "119.57",
+      "Lat": "28.1",
+      "TEM_Max": "28",
+      "TEM_Min": "18.3",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "144",
+      "station_id": "58745",
+      "station_name": "庆元",
+      "Lon": "119.08",
+      "Lat": "27.62",
+      "TEM_Max": "29",
+      "TEM_Min": "18",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "145",
+      "station_id": "58746",
+      "station_name": "泰顺",
+      "Lon": "119.7",
+      "Lat": "27.55",
+      "TEM_Max": "23.8",
+      "TEM_Min": "15.7",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "146",
+      "station_id": "58750",
+      "station_name": "文成",
+      "Lon": "133.99",
+      "Lat": "34.73",
+      "TEM_Max": "25.3",
+      "TEM_Min": "17.2",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "147",
+      "station_id": "58751",
+      "station_name": "平阳",
+      "Lon": "120.57",
+      "Lat": "27.67",
+      "TEM_Max": "23.8",
+      "TEM_Min": "15.7",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "148",
+      "station_id": "58752",
+      "station_name": "瑞安",
+      "Lon": "120.65",
+      "Lat": "27.79",
+      "TEM_Max": "24.8",
+      "TEM_Min": "17.9",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "149",
+      "station_id": "58755",
+      "station_name": "苍南",
+      "Lon": "120.39",
+      "Lat": "27.5",
+      "TEM_Max": "24.1",
+      "TEM_Min": "16.5",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "150",
+      "station_id": "58760",
+      "station_name": "洞头",
+      "Lon": "121.15",
+      "Lat": "27.83",
+      "TEM_Max": "23.1",
+      "TEM_Min": "18.7",
+      "datetime": "27/10/2020 00:00:00"
+    },
+    {
+      "id": "151",
+      "station_id": "58443",
+      "station_name": "长兴",
+      "Lon": "119.89",
+      "Lat": "31.02",
+      "TEM_Max": "19.7",
+      "TEM_Min": "17.4",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "152",
+      "station_id": "58444",
+      "station_name": "余杭",
+      "Lon": "120.28",
+      "Lat": "30.42",
+      "TEM_Max": "21.5",
+      "TEM_Min": "16.6",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "153",
+      "station_id": "58446",
+      "station_name": "安吉",
+      "Lon": "119.7",
+      "Lat": "30.63",
+      "TEM_Max": "21",
+      "TEM_Min": "16.5",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "154",
+      "station_id": "58448",
+      "station_name": "临安",
+      "Lon": "119.7",
+      "Lat": "30.22",
+      "TEM_Max": "20.6",
+      "TEM_Min": "17.1",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "155",
+      "station_id": "58449",
+      "station_name": "富阳",
+      "Lon": "119.95",
+      "Lat": "30.05",
+      "TEM_Max": "21.8",
+      "TEM_Min": "17.9",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "156",
+      "station_id": "58450",
+      "station_name": "湖州",
+      "Lon": "120.05",
+      "Lat": "30.87",
+      "TEM_Max": "20.7",
+      "TEM_Min": "17.8",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "157",
+      "station_id": "58451",
+      "station_name": "嘉善",
+      "Lon": "120.93",
+      "Lat": "30.83",
+      "TEM_Max": "21.1",
+      "TEM_Min": "16.3",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "158",
+      "station_id": "58452",
+      "station_name": "嘉兴",
+      "Lon": "120.77",
+      "Lat": "30.73",
+      "TEM_Max": "21.9",
+      "TEM_Min": "17",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "159",
+      "station_id": "58453",
+      "station_name": "绍兴",
+      "Lon": "120.5",
+      "Lat": "30.07",
+      "TEM_Max": "22.1",
+      "TEM_Min": "18.1",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "160",
+      "station_id": "58454",
+      "station_name": "德清",
+      "Lon": "119.98",
+      "Lat": "30.53",
+      "TEM_Max": "20.4",
+      "TEM_Min": "16.6",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "161",
+      "station_id": "58455",
+      "station_name": "海宁",
+      "Lon": "120.48",
+      "Lat": "30.47",
+      "TEM_Max": "22.5",
+      "TEM_Min": "15.4",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "162",
+      "station_id": "58456",
+      "station_name": "桐乡",
+      "Lon": "120.52",
+      "Lat": "30.63",
+      "TEM_Max": "21.7",
+      "TEM_Min": "17.4",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "163",
+      "station_id": "58457",
+      "station_name": "杭州",
+      "Lon": "120.17",
+      "Lat": "30.23",
+      "TEM_Max": "21.6",
+      "TEM_Min": "18",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "164",
+      "station_id": "58458",
+      "station_name": "海盐",
+      "Lon": "120.9",
+      "Lat": "30.53",
+      "TEM_Max": "21.9",
+      "TEM_Min": "16.2",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "165",
+      "station_id": "58459",
+      "station_name": "萧山",
+      "Lon": "120.28",
+      "Lat": "30.18",
+      "TEM_Max": "21.5",
+      "TEM_Min": "17",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "166",
+      "station_id": "58464",
+      "station_name": "平湖",
+      "Lon": "121.12",
+      "Lat": "30.65",
+      "TEM_Max": "21.1",
+      "TEM_Min": "15.4",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "167",
+      "station_id": "58467",
+      "station_name": "慈溪",
+      "Lon": "121.3",
+      "Lat": "30.2",
+      "TEM_Max": "22.5",
+      "TEM_Min": "15.9",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "168",
+      "station_id": "58468",
+      "station_name": "余姚",
+      "Lon": "121.13",
+      "Lat": "30.02",
+      "TEM_Max": "23.2",
+      "TEM_Min": "17.2",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "169",
+      "station_id": "58472",
+      "station_name": "嵊泗",
+      "Lon": "122.45",
+      "Lat": "30.73",
+      "TEM_Max": "20.7",
+      "TEM_Min": "17.8",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "170",
+      "station_id": "58477",
+      "station_name": "定海",
+      "Lon": "122.1",
+      "Lat": "30.03",
+      "TEM_Max": "23.2",
+      "TEM_Min": "18",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "171",
+      "station_id": "58484",
+      "station_name": "岱山",
+      "Lon": "122.2",
+      "Lat": "30.25",
+      "TEM_Max": "22.3",
+      "TEM_Min": "18.2",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "172",
+      "station_id": "58537",
+      "station_name": "开化",
+      "Lon": "118.4",
+      "Lat": "29.13",
+      "TEM_Max": "23.9",
+      "TEM_Min": "17.1",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "173",
+      "station_id": "58542",
+      "station_name": "桐庐",
+      "Lon": "119.68",
+      "Lat": "29.82",
+      "TEM_Max": "21.5",
+      "TEM_Min": "18.3",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "174",
+      "station_id": "58543",
+      "station_name": "淳安",
+      "Lon": "119.02",
+      "Lat": "29.62",
+      "TEM_Max": "21",
+      "TEM_Min": "18.1",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "175",
+      "station_id": "58544",
+      "station_name": "建德",
+      "Lon": "119.27",
+      "Lat": "29.48",
+      "TEM_Max": "22.2",
+      "TEM_Min": "17.8",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "176",
+      "station_id": "58546",
+      "station_name": "浦江",
+      "Lon": "119.88",
+      "Lat": "29.47",
+      "TEM_Max": "23.2",
+      "TEM_Min": "17",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "177",
+      "station_id": "58547",
+      "station_name": "龙游南",
+      "Lon": "119.19",
+      "Lat": "29.04",
+      "TEM_Max": "24.1",
+      "TEM_Min": "17.4",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "178",
+      "station_id": "58548",
+      "station_name": "兰溪",
+      "Lon": "119.48",
+      "Lat": "29.22",
+      "TEM_Max": "23.7",
+      "TEM_Min": "18.8",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "179",
+      "station_id": "58549",
+      "station_name": "金华",
+      "Lon": "119.65",
+      "Lat": "29.12",
+      "TEM_Max": "24.5",
+      "TEM_Min": "18.3",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "180",
+      "station_id": "58550",
+      "station_name": "诸暨",
+      "Lon": "120.25",
+      "Lat": "29.7",
+      "TEM_Max": "23.5",
+      "TEM_Min": "17.5",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "181",
+      "station_id": "58553",
+      "station_name": "上虞",
+      "Lon": "120.82",
+      "Lat": "30.05",
+      "TEM_Max": "22.5",
+      "TEM_Min": "17.1",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "182",
+      "station_id": "58555",
+      "station_name": "新昌",
+      "Lon": "120.88",
+      "Lat": "29.52",
+      "TEM_Max": "24.9",
+      "TEM_Min": "14.8",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "183",
+      "station_id": "58556",
+      "station_name": "嵊州",
+      "Lon": "120.82",
+      "Lat": "29.6",
+      "TEM_Max": "24.4",
+      "TEM_Min": "15.9",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "184",
+      "station_id": "58557",
+      "station_name": "义乌",
+      "Lon": "120.08",
+      "Lat": "29.33",
+      "TEM_Max": "24.1",
+      "TEM_Min": "17.3",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "185",
+      "station_id": "58558",
+      "station_name": "东阳",
+      "Lon": "120.22",
+      "Lat": "29.27",
+      "TEM_Max": "25.4",
+      "TEM_Min": "16.7",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "186",
+      "station_id": "58559",
+      "station_name": "天台",
+      "Lon": "120.97",
+      "Lat": "29.15",
+      "TEM_Max": "25.9",
+      "TEM_Min": "13.6",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "187",
+      "station_id": "58560",
+      "station_name": "磐安",
+      "Lon": "120.43",
+      "Lat": "29.05",
+      "TEM_Max": "24.6",
+      "TEM_Min": "13.4",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "188",
+      "station_id": "58561",
+      "station_name": "镇海",
+      "Lon": "121.6",
+      "Lat": "29.98",
+      "TEM_Max": "23.2",
+      "TEM_Min": "16.6",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "189",
+      "station_id": "58562",
+      "station_name": "鄞州",
+      "Lon": "121.5",
+      "Lat": "29.8",
+      "TEM_Max": "23.9",
+      "TEM_Min": "16.7",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "190",
+      "station_id": "58563",
+      "station_name": "北仑",
+      "Lon": "121.83",
+      "Lat": "29.88",
+      "TEM_Max": "23.8",
+      "TEM_Min": "17",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "191",
+      "station_id": "58565",
+      "station_name": "奉化",
+      "Lon": "121.38",
+      "Lat": "29.7",
+      "TEM_Max": "24.8",
+      "TEM_Min": "16.2",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "192",
+      "station_id": "58566",
+      "station_name": "象山",
+      "Lon": "121.92",
+      "Lat": "29.38",
+      "TEM_Max": "23.6",
+      "TEM_Min": "18.3",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "193",
+      "station_id": "58567",
+      "station_name": "宁海",
+      "Lon": "121.43",
+      "Lat": "29.32",
+      "TEM_Max": "24.8",
+      "TEM_Min": "15.4",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "194",
+      "station_id": "58568",
+      "station_name": "三门",
+      "Lon": "121.38",
+      "Lat": "29.12",
+      "TEM_Max": "25.5",
+      "TEM_Min": "15.7",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "195",
+      "station_id": "58569",
+      "station_name": "石浦",
+      "Lon": "121.95",
+      "Lat": "29.2",
+      "TEM_Max": "24.5",
+      "TEM_Min": "17.9",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "196",
+      "station_id": "58570",
+      "station_name": "普陀",
+      "Lon": "122.3",
+      "Lat": "29.95",
+      "TEM_Max": "23.2",
+      "TEM_Min": "18.2",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "197",
+      "station_id": "58631",
+      "station_name": "常山",
+      "Lon": "118.5",
+      "Lat": "28.9",
+      "TEM_Max": "25.1",
+      "TEM_Min": "18.6",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "198",
+      "station_id": "58632",
+      "station_name": "江山",
+      "Lon": "118.6",
+      "Lat": "28.72",
+      "TEM_Max": "23.7",
+      "TEM_Min": "18",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "199",
+      "station_id": "58633",
+      "station_name": "衢州",
+      "Lon": "118.9",
+      "Lat": "29",
+      "TEM_Max": "24",
+      "TEM_Min": "17.7",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "200",
+      "station_id": "58642",
+      "station_name": "武义",
+      "Lon": "119.8",
+      "Lat": "28.88",
+      "TEM_Max": "24.8",
+      "TEM_Min": "16.7",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "201",
+      "station_id": "58643",
+      "station_name": "永康",
+      "Lon": "120.03",
+      "Lat": "28.9",
+      "TEM_Max": "25",
+      "TEM_Min": "18.3",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "202",
+      "station_id": "58644",
+      "station_name": "遂昌",
+      "Lon": "119.28",
+      "Lat": "28.6",
+      "TEM_Max": "25.6",
+      "TEM_Min": "14.8",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "203",
+      "station_id": "58645",
+      "station_name": "松阳",
+      "Lon": "119.48",
+      "Lat": "28.43",
+      "TEM_Max": "26.3",
+      "TEM_Min": "15.2",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "204",
+      "station_id": "58646",
+      "station_name": "丽水",
+      "Lon": "119.93",
+      "Lat": "28.47",
+      "TEM_Max": "27.5",
+      "TEM_Min": "16.7",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "205",
+      "station_id": "58647",
+      "station_name": "龙泉",
+      "Lon": "119.13",
+      "Lat": "28.08",
+      "TEM_Max": "27.3",
+      "TEM_Min": "15.4",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "206",
+      "station_id": "58648",
+      "station_name": "景宁",
+      "Lon": "119.63",
+      "Lat": "28",
+      "TEM_Max": "26.1",
+      "TEM_Min": "15.2",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "207",
+      "station_id": "58652",
+      "station_name": "仙居",
+      "Lon": "120.72",
+      "Lat": "28.87",
+      "TEM_Max": "25.7",
+      "TEM_Min": "15.2",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "208",
+      "station_id": "58654",
+      "station_name": "缙云",
+      "Lon": "120.08",
+      "Lat": "28.67",
+      "TEM_Max": "24.8",
+      "TEM_Min": "16",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "209",
+      "station_id": "58656",
+      "station_name": "乐清市清远路",
+      "Lon": "120.97",
+      "Lat": "28.07",
+      "TEM_Max": "25.6",
+      "TEM_Min": "17.7",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "210",
+      "station_id": "58657",
+      "station_name": "青田",
+      "Lon": "120.28",
+      "Lat": "28.13",
+      "TEM_Max": "27.9",
+      "TEM_Min": "16.4",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "211",
+      "station_id": "58658",
+      "station_name": "永嘉",
+      "Lon": "120.68",
+      "Lat": "28.15",
+      "TEM_Max": "28.4",
+      "TEM_Min": "15.6",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "212",
+      "station_id": "58659",
+      "station_name": "温州市海坦山路",
+      "Lon": "120.65",
+      "Lat": "28.03",
+      "TEM_Max": "26.8",
+      "TEM_Min": "17.1",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "213",
+      "station_id": "58660",
+      "station_name": "临海",
+      "Lon": "121.18",
+      "Lat": "28.87",
+      "TEM_Max": "26.1",
+      "TEM_Min": "14.1",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "214",
+      "station_id": "58664",
+      "station_name": "温岭",
+      "Lon": "121.37",
+      "Lat": "28.37",
+      "TEM_Max": "24.3",
+      "TEM_Min": "16.5",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "215",
+      "station_id": "58665",
+      "station_name": "椒江",
+      "Lon": "121.42",
+      "Lat": "28.62",
+      "TEM_Max": "24.5",
+      "TEM_Min": "17.2",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "216",
+      "station_id": "58666",
+      "station_name": "大陈",
+      "Lon": "121.9",
+      "Lat": "28.45",
+      "TEM_Max": "22.3",
+      "TEM_Min": "19",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "217",
+      "station_id": "58667",
+      "station_name": "玉环县坎门街道东山头",
+      "Lon": "121.27",
+      "Lat": "28.08",
+      "TEM_Max": "24.4",
+      "TEM_Min": "17.1",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "218",
+      "station_id": "58742",
+      "station_name": "云和",
+      "Lon": "119.57",
+      "Lat": "28.1",
+      "TEM_Max": "26.2",
+      "TEM_Min": "15.6",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "219",
+      "station_id": "58745",
+      "station_name": "庆元",
+      "Lon": "119.08",
+      "Lat": "27.62",
+      "TEM_Max": "28.7",
+      "TEM_Min": "14.1",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "220",
+      "station_id": "58746",
+      "station_name": "泰顺",
+      "Lon": "119.7",
+      "Lat": "27.55",
+      "TEM_Max": "24.8",
+      "TEM_Min": "12.5",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "221",
+      "station_id": "58750",
+      "station_name": "文成",
+      "Lon": "133.99",
+      "Lat": "34.73",
+      "TEM_Max": "27.2",
+      "TEM_Min": "14.9",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "222",
+      "station_id": "58751",
+      "station_name": "平阳",
+      "Lon": "120.57",
+      "Lat": "27.67",
+      "TEM_Max": "23.8",
+      "TEM_Min": "15.2",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "223",
+      "station_id": "58752",
+      "station_name": "瑞安",
+      "Lon": "120.65",
+      "Lat": "27.79",
+      "TEM_Max": "26.6",
+      "TEM_Min": "17.2",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "224",
+      "station_id": "58755",
+      "station_name": "苍南",
+      "Lon": "120.39",
+      "Lat": "27.5",
+      "TEM_Max": "25.4",
+      "TEM_Min": "15",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "225",
+      "station_id": "58760",
+      "station_name": "洞头",
+      "Lon": "121.15",
+      "Lat": "27.83",
+      "TEM_Max": "23",
+      "TEM_Min": "18.9",
+      "datetime": "28/10/2020 00:00:00"
+    },
+    {
+      "id": "226",
+      "station_id": "58443",
+      "station_name": "长兴",
+      "Lon": "119.89",
+      "Lat": "31.02",
+      "TEM_Max": "20.9",
+      "TEM_Min": "15.5",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "227",
+      "station_id": "58444",
+      "station_name": "余杭",
+      "Lon": "120.28",
+      "Lat": "30.42",
+      "TEM_Max": "21.3",
+      "TEM_Min": "16.6",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "228",
+      "station_id": "58446",
+      "station_name": "安吉",
+      "Lon": "119.7",
+      "Lat": "30.63",
+      "TEM_Max": "21.6",
+      "TEM_Min": "15.2",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "229",
+      "station_id": "58448",
+      "station_name": "临安",
+      "Lon": "119.7",
+      "Lat": "30.22",
+      "TEM_Max": "18.2",
+      "TEM_Min": "15.8",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "230",
+      "station_id": "58449",
+      "station_name": "富阳",
+      "Lon": "119.95",
+      "Lat": "30.05",
+      "TEM_Max": "18.6",
+      "TEM_Min": "16.7",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "231",
+      "station_id": "58450",
+      "station_name": "湖州",
+      "Lon": "120.05",
+      "Lat": "30.87",
+      "TEM_Max": "21.2",
+      "TEM_Min": "16.2",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "232",
+      "station_id": "58451",
+      "station_name": "嘉善",
+      "Lon": "120.93",
+      "Lat": "30.83",
+      "TEM_Max": "21.6",
+      "TEM_Min": "15.8",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "233",
+      "station_id": "58452",
+      "station_name": "嘉兴",
+      "Lon": "120.77",
+      "Lat": "30.73",
+      "TEM_Max": "21.4",
+      "TEM_Min": "17.4",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "234",
+      "station_id": "58453",
+      "station_name": "绍兴",
+      "Lon": "120.5",
+      "Lat": "30.07",
+      "TEM_Max": "20.9",
+      "TEM_Min": "17.3",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "235",
+      "station_id": "58454",
+      "station_name": "德清",
+      "Lon": "119.98",
+      "Lat": "30.53",
+      "TEM_Max": "20.5",
+      "TEM_Min": "16",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "236",
+      "station_id": "58455",
+      "station_name": "海宁",
+      "Lon": "120.48",
+      "Lat": "30.47",
+      "TEM_Max": "22.2",
+      "TEM_Min": "14.5",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "237",
+      "station_id": "58456",
+      "station_name": "桐乡",
+      "Lon": "120.52",
+      "Lat": "30.63",
+      "TEM_Max": "21.9",
+      "TEM_Min": "17.5",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "238",
+      "station_id": "58457",
+      "station_name": "杭州",
+      "Lon": "120.17",
+      "Lat": "30.23",
+      "TEM_Max": "20.8",
+      "TEM_Min": "17",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "239",
+      "station_id": "58458",
+      "station_name": "海盐",
+      "Lon": "120.9",
+      "Lat": "30.53",
+      "TEM_Max": "21.1",
+      "TEM_Min": "17.2",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "240",
+      "station_id": "58459",
+      "station_name": "萧山",
+      "Lon": "120.28",
+      "Lat": "30.18",
+      "TEM_Max": "20.7",
+      "TEM_Min": "17.2",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "241",
+      "station_id": "58464",
+      "station_name": "平湖",
+      "Lon": "121.12",
+      "Lat": "30.65",
+      "TEM_Max": "20.8",
+      "TEM_Min": "15.6",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "242",
+      "station_id": "58467",
+      "station_name": "慈溪",
+      "Lon": "121.3",
+      "Lat": "30.2",
+      "TEM_Max": "21.5",
+      "TEM_Min": "15.5",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "243",
+      "station_id": "58468",
+      "station_name": "余姚",
+      "Lon": "121.13",
+      "Lat": "30.02",
+      "TEM_Max": "21.4",
+      "TEM_Min": "16.8",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "244",
+      "station_id": "58472",
+      "station_name": "嵊泗",
+      "Lon": "122.45",
+      "Lat": "30.73",
+      "TEM_Max": "19.7",
+      "TEM_Min": "16.9",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "245",
+      "station_id": "58477",
+      "station_name": "定海",
+      "Lon": "122.1",
+      "Lat": "30.03",
+      "TEM_Max": "21.3",
+      "TEM_Min": "16.9",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "246",
+      "station_id": "58484",
+      "station_name": "岱山",
+      "Lon": "122.2",
+      "Lat": "30.25",
+      "TEM_Max": "21.1",
+      "TEM_Min": "17.5",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "247",
+      "station_id": "58537",
+      "station_name": "开化",
+      "Lon": "118.4",
+      "Lat": "29.13",
+      "TEM_Max": "19.4",
+      "TEM_Min": "15.9",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "248",
+      "station_id": "58542",
+      "station_name": "桐庐",
+      "Lon": "119.68",
+      "Lat": "29.82",
+      "TEM_Max": "19.3",
+      "TEM_Min": "16.9",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "249",
+      "station_id": "58543",
+      "station_name": "淳安",
+      "Lon": "119.02",
+      "Lat": "29.62",
+      "TEM_Max": "20.8",
+      "TEM_Min": "16.7",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "250",
+      "station_id": "58544",
+      "station_name": "建德",
+      "Lon": "119.27",
+      "Lat": "29.48",
+      "TEM_Max": "20.4",
+      "TEM_Min": "16.5",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "251",
+      "station_id": "58546",
+      "station_name": "浦江",
+      "Lon": "119.88",
+      "Lat": "29.47",
+      "TEM_Max": "19.5",
+      "TEM_Min": "17.3",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "252",
+      "station_id": "58547",
+      "station_name": "龙游南",
+      "Lon": "119.19",
+      "Lat": "29.04",
+      "TEM_Max": "19.9",
+      "TEM_Min": "17.7",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "253",
+      "station_id": "58548",
+      "station_name": "兰溪",
+      "Lon": "119.48",
+      "Lat": "29.22",
+      "TEM_Max": "20.1",
+      "TEM_Min": "18.2",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "254",
+      "station_id": "58549",
+      "station_name": "金华",
+      "Lon": "119.65",
+      "Lat": "29.12",
+      "TEM_Max": "20.5",
+      "TEM_Min": "18.3",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "255",
+      "station_id": "58550",
+      "station_name": "诸暨",
+      "Lon": "120.25",
+      "Lat": "29.7",
+      "TEM_Max": "19.4",
+      "TEM_Min": "16.7",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "256",
+      "station_id": "58553",
+      "station_name": "上虞",
+      "Lon": "120.82",
+      "Lat": "30.05",
+      "TEM_Max": "21.5",
+      "TEM_Min": "16.5",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "257",
+      "station_id": "58555",
+      "station_name": "新昌",
+      "Lon": "120.88",
+      "Lat": "29.52",
+      "TEM_Max": "19.6",
+      "TEM_Min": "16.8",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "258",
+      "station_id": "58556",
+      "station_name": "嵊州",
+      "Lon": "120.82",
+      "Lat": "29.6",
+      "TEM_Max": "19.8",
+      "TEM_Min": "17.1",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "259",
+      "station_id": "58557",
+      "station_name": "义乌",
+      "Lon": "120.08",
+      "Lat": "29.33",
+      "TEM_Max": "19.8",
+      "TEM_Min": "17.5",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "260",
+      "station_id": "58558",
+      "station_name": "东阳",
+      "Lon": "120.22",
+      "Lat": "29.27",
+      "TEM_Max": "20.5",
+      "TEM_Min": "17.9",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "261",
+      "station_id": "58559",
+      "station_name": "天台",
+      "Lon": "120.97",
+      "Lat": "29.15",
+      "TEM_Max": "20.8",
+      "TEM_Min": "16.8",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "262",
+      "station_id": "58560",
+      "station_name": "磐安",
+      "Lon": "120.43",
+      "Lat": "29.05",
+      "TEM_Max": "18.9",
+      "TEM_Min": "15.5",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "263",
+      "station_id": "58561",
+      "station_name": "镇海",
+      "Lon": "121.6",
+      "Lat": "29.98",
+      "TEM_Max": "21.3",
+      "TEM_Min": "17.4",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "264",
+      "station_id": "58562",
+      "station_name": "鄞州",
+      "Lon": "121.5",
+      "Lat": "29.8",
+      "TEM_Max": "21.3",
+      "TEM_Min": "17.4",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "265",
+      "station_id": "58563",
+      "station_name": "北仑",
+      "Lon": "121.83",
+      "Lat": "29.88",
+      "TEM_Max": "21.5",
+      "TEM_Min": "17.7",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "266",
+      "station_id": "58565",
+      "station_name": "奉化",
+      "Lon": "121.38",
+      "Lat": "29.7",
+      "TEM_Max": "21.3",
+      "TEM_Min": "16.7",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "267",
+      "station_id": "58566",
+      "station_name": "象山",
+      "Lon": "121.92",
+      "Lat": "29.38",
+      "TEM_Max": "21.7",
+      "TEM_Min": "18",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "268",
+      "station_id": "58567",
+      "station_name": "宁海",
+      "Lon": "121.43",
+      "Lat": "29.32",
+      "TEM_Max": "20.7",
+      "TEM_Min": "16.9",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "269",
+      "station_id": "58568",
+      "station_name": "三门",
+      "Lon": "121.38",
+      "Lat": "29.12",
+      "TEM_Max": "21.3",
+      "TEM_Min": "15.7",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "270",
+      "station_id": "58569",
+      "station_name": "石浦",
+      "Lon": "121.95",
+      "Lat": "29.2",
+      "TEM_Max": "22",
+      "TEM_Min": "17.4",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "271",
+      "station_id": "58570",
+      "station_name": "普陀",
+      "Lon": "122.3",
+      "Lat": "29.95",
+      "TEM_Max": "20.8",
+      "TEM_Min": "17.1",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "272",
+      "station_id": "58631",
+      "station_name": "常山",
+      "Lon": "118.5",
+      "Lat": "28.9",
+      "TEM_Max": "20.4",
+      "TEM_Min": "17.8",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "273",
+      "station_id": "58632",
+      "station_name": "江山",
+      "Lon": "118.6",
+      "Lat": "28.72",
+      "TEM_Max": "20.9",
+      "TEM_Min": "17.4",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "274",
+      "station_id": "58633",
+      "station_name": "衢州",
+      "Lon": "118.9",
+      "Lat": "29",
+      "TEM_Max": "19.7",
+      "TEM_Min": "16.9",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "275",
+      "station_id": "58642",
+      "station_name": "武义",
+      "Lon": "119.8",
+      "Lat": "28.88",
+      "TEM_Max": "20.8",
+      "TEM_Min": "17.8",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "276",
+      "station_id": "58643",
+      "station_name": "永康",
+      "Lon": "120.03",
+      "Lat": "28.9",
+      "TEM_Max": "21.1",
+      "TEM_Min": "18.3",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "277",
+      "station_id": "58644",
+      "station_name": "遂昌",
+      "Lon": "119.28",
+      "Lat": "28.6",
+      "TEM_Max": "20.7",
+      "TEM_Min": "17.7",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "278",
+      "station_id": "58645",
+      "station_name": "松阳",
+      "Lon": "119.48",
+      "Lat": "28.43",
+      "TEM_Max": "21.1",
+      "TEM_Min": "17.8",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "279",
+      "station_id": "58646",
+      "station_name": "丽水",
+      "Lon": "119.93",
+      "Lat": "28.47",
+      "TEM_Max": "22.7",
+      "TEM_Min": "18.9",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "280",
+      "station_id": "58647",
+      "station_name": "龙泉",
+      "Lon": "119.13",
+      "Lat": "28.08",
+      "TEM_Max": "22.5",
+      "TEM_Min": "18.4",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "281",
+      "station_id": "58648",
+      "station_name": "景宁",
+      "Lon": "119.63",
+      "Lat": "28",
+      "TEM_Max": "21.6",
+      "TEM_Min": "16.9",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "282",
+      "station_id": "58652",
+      "station_name": "仙居",
+      "Lon": "120.72",
+      "Lat": "28.87",
+      "TEM_Max": "22.1",
+      "TEM_Min": "18.2",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "283",
+      "station_id": "58654",
+      "station_name": "缙云",
+      "Lon": "120.08",
+      "Lat": "28.67",
+      "TEM_Max": "20.2",
+      "TEM_Min": "16.7",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "284",
+      "station_id": "58656",
+      "station_name": "乐清市清远路",
+      "Lon": "120.97",
+      "Lat": "28.07",
+      "TEM_Max": "23.4",
+      "TEM_Min": "18.7",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "285",
+      "station_id": "58657",
+      "station_name": "青田",
+      "Lon": "120.28",
+      "Lat": "28.13",
+      "TEM_Max": "22.7",
+      "TEM_Min": "19.2",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "286",
+      "station_id": "58658",
+      "station_name": "永嘉",
+      "Lon": "120.68",
+      "Lat": "28.15",
+      "TEM_Max": "23.3",
+      "TEM_Min": "19.1",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "287",
+      "station_id": "58659",
+      "station_name": "温州市海坦山路",
+      "Lon": "120.65",
+      "Lat": "28.03",
+      "TEM_Max": "23",
+      "TEM_Min": "19.5",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "288",
+      "station_id": "58660",
+      "station_name": "临海",
+      "Lon": "121.18",
+      "Lat": "28.87",
+      "TEM_Max": "22.2",
+      "TEM_Min": "15.3",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "289",
+      "station_id": "58664",
+      "station_name": "温岭",
+      "Lon": "121.37",
+      "Lat": "28.37",
+      "TEM_Max": "23",
+      "TEM_Min": "17.6",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "290",
+      "station_id": "58665",
+      "station_name": "椒江",
+      "Lon": "121.42",
+      "Lat": "28.62",
+      "TEM_Max": "22.8",
+      "TEM_Min": "17.2",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "291",
+      "station_id": "58666",
+      "station_name": "大陈",
+      "Lon": "121.9",
+      "Lat": "28.45",
+      "TEM_Max": "22.3",
+      "TEM_Min": "18.4",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "292",
+      "station_id": "58667",
+      "station_name": "玉环县坎门街道东山头",
+      "Lon": "121.27",
+      "Lat": "28.08",
+      "TEM_Max": "23.9",
+      "TEM_Min": "17.4",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "293",
+      "station_id": "58742",
+      "station_name": "云和",
+      "Lon": "119.57",
+      "Lat": "28.1",
+      "TEM_Max": "22.2",
+      "TEM_Min": "17.9",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "294",
+      "station_id": "58745",
+      "station_name": "庆元",
+      "Lon": "119.08",
+      "Lat": "27.62",
+      "TEM_Max": "22.9",
+      "TEM_Min": "17.4",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "295",
+      "station_id": "58746",
+      "station_name": "泰顺",
+      "Lon": "119.7",
+      "Lat": "27.55",
+      "TEM_Max": "19.8",
+      "TEM_Min": "15.8",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "296",
+      "station_id": "58750",
+      "station_name": "文成",
+      "Lon": "133.99",
+      "Lat": "34.73",
+      "TEM_Max": "22.6",
+      "TEM_Min": "18.6",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "297",
+      "station_id": "58751",
+      "station_name": "平阳",
+      "Lon": "120.57",
+      "Lat": "27.67",
+      "TEM_Max": "21.8",
+      "TEM_Min": "16.8",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "298",
+      "station_id": "58752",
+      "station_name": "瑞安",
+      "Lon": "120.65",
+      "Lat": "27.79",
+      "TEM_Max": "23.5",
+      "TEM_Min": "19.5",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "299",
+      "station_id": "58755",
+      "station_name": "苍南",
+      "Lon": "120.39",
+      "Lat": "27.5",
+      "TEM_Max": "22.1",
+      "TEM_Min": "18.4",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "300",
+      "station_id": "58760",
+      "station_name": "洞头",
+      "Lon": "121.15",
+      "Lat": "27.83",
+      "TEM_Max": "21.7",
+      "TEM_Min": "19",
+      "datetime": "29/10/2020 00:00:00"
+    },
+    {
+      "id": "301",
+      "station_id": "58443",
+      "station_name": "长兴",
+      "Lon": "119.89",
+      "Lat": "31.02",
+      "TEM_Max": "20",
+      "TEM_Min": "12.1",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "302",
+      "station_id": "58444",
+      "station_name": "余杭",
+      "Lon": "120.28",
+      "Lat": "30.42",
+      "TEM_Max": "22",
+      "TEM_Min": "13.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "303",
+      "station_id": "58446",
+      "station_name": "安吉",
+      "Lon": "119.7",
+      "Lat": "30.63",
+      "TEM_Max": "22.5",
+      "TEM_Min": "10.8",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "304",
+      "station_id": "58448",
+      "station_name": "临安",
+      "Lon": "119.7",
+      "Lat": "30.22",
+      "TEM_Max": "20.7",
+      "TEM_Min": "12.7",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "305",
+      "station_id": "58449",
+      "station_name": "富阳",
+      "Lon": "119.95",
+      "Lat": "30.05",
+      "TEM_Max": "22.1",
+      "TEM_Min": "14",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "306",
+      "station_id": "58450",
+      "station_name": "湖州",
+      "Lon": "120.05",
+      "Lat": "30.87",
+      "TEM_Max": "20.7",
+      "TEM_Min": "11.3",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "307",
+      "station_id": "58451",
+      "station_name": "嘉善",
+      "Lon": "120.93",
+      "Lat": "30.83",
+      "TEM_Max": "22.4",
+      "TEM_Min": "11.2",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "308",
+      "station_id": "58452",
+      "station_name": "嘉兴",
+      "Lon": "120.77",
+      "Lat": "30.73",
+      "TEM_Max": "21.1",
+      "TEM_Min": "11.3",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "309",
+      "station_id": "58453",
+      "station_name": "绍兴",
+      "Lon": "120.5",
+      "Lat": "30.07",
+      "TEM_Max": "21.1",
+      "TEM_Min": "15.7",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "310",
+      "station_id": "58454",
+      "station_name": "德清",
+      "Lon": "119.98",
+      "Lat": "30.53",
+      "TEM_Max": "20.7",
+      "TEM_Min": "12.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "311",
+      "station_id": "58455",
+      "station_name": "海宁",
+      "Lon": "120.48",
+      "Lat": "30.47",
+      "TEM_Max": "21.9",
+      "TEM_Min": "9.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "312",
+      "station_id": "58456",
+      "station_name": "桐乡",
+      "Lon": "120.52",
+      "Lat": "30.63",
+      "TEM_Max": "21.1",
+      "TEM_Min": "11.7",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "313",
+      "station_id": "58457",
+      "station_name": "杭州",
+      "Lon": "120.17",
+      "Lat": "30.23",
+      "TEM_Max": "21.7",
+      "TEM_Min": "14.1",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "314",
+      "station_id": "58458",
+      "station_name": "海盐",
+      "Lon": "120.9",
+      "Lat": "30.53",
+      "TEM_Max": "21.4",
+      "TEM_Min": "11.7",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "315",
+      "station_id": "58459",
+      "station_name": "萧山",
+      "Lon": "120.28",
+      "Lat": "30.18",
+      "TEM_Max": "21.1",
+      "TEM_Min": "14.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "316",
+      "station_id": "58464",
+      "station_name": "平湖",
+      "Lon": "121.12",
+      "Lat": "30.65",
+      "TEM_Max": "21.2",
+      "TEM_Min": "10.2",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "317",
+      "station_id": "58467",
+      "station_name": "慈溪",
+      "Lon": "121.3",
+      "Lat": "30.2",
+      "TEM_Max": "20.8",
+      "TEM_Min": "11.3",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "318",
+      "station_id": "58468",
+      "station_name": "余姚",
+      "Lon": "121.13",
+      "Lat": "30.02",
+      "TEM_Max": "21.4",
+      "TEM_Min": "12.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "319",
+      "station_id": "58472",
+      "station_name": "嵊泗",
+      "Lon": "122.45",
+      "Lat": "30.73",
+      "TEM_Max": "19",
+      "TEM_Min": "16.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "320",
+      "station_id": "58477",
+      "station_name": "定海",
+      "Lon": "122.1",
+      "Lat": "30.03",
+      "TEM_Max": "21.2",
+      "TEM_Min": "13.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "321",
+      "station_id": "58484",
+      "station_name": "岱山",
+      "Lon": "122.2",
+      "Lat": "30.25",
+      "TEM_Max": "20.6",
+      "TEM_Min": "16.1",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "322",
+      "station_id": "58537",
+      "station_name": "开化",
+      "Lon": "118.4",
+      "Lat": "29.13",
+      "TEM_Max": "23.2",
+      "TEM_Min": "12.7",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "323",
+      "station_id": "58542",
+      "station_name": "桐庐",
+      "Lon": "119.68",
+      "Lat": "29.82",
+      "TEM_Max": "21.7",
+      "TEM_Min": "14",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "324",
+      "station_id": "58543",
+      "station_name": "淳安",
+      "Lon": "119.02",
+      "Lat": "29.62",
+      "TEM_Max": "22.3",
+      "TEM_Min": "14.9",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "325",
+      "station_id": "58544",
+      "station_name": "建德",
+      "Lon": "119.27",
+      "Lat": "29.48",
+      "TEM_Max": "22.1",
+      "TEM_Min": "14.4",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "326",
+      "station_id": "58546",
+      "station_name": "浦江",
+      "Lon": "119.88",
+      "Lat": "29.47",
+      "TEM_Max": "22.4",
+      "TEM_Min": "13.4",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "327",
+      "station_id": "58547",
+      "station_name": "龙游南",
+      "Lon": "119.19",
+      "Lat": "29.04",
+      "TEM_Max": "22.3",
+      "TEM_Min": "15.7",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "328",
+      "station_id": "58548",
+      "station_name": "兰溪",
+      "Lon": "119.48",
+      "Lat": "29.22",
+      "TEM_Max": "23.5",
+      "TEM_Min": "14.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "329",
+      "station_id": "58549",
+      "station_name": "金华",
+      "Lon": "119.65",
+      "Lat": "29.12",
+      "TEM_Max": "22.5",
+      "TEM_Min": "15",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "330",
+      "station_id": "58550",
+      "station_name": "诸暨",
+      "Lon": "120.25",
+      "Lat": "29.7",
+      "TEM_Max": "21.8",
+      "TEM_Min": "14.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "331",
+      "station_id": "58553",
+      "station_name": "上虞",
+      "Lon": "120.82",
+      "Lat": "30.05",
+      "TEM_Max": "20.9",
+      "TEM_Min": "11.9",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "332",
+      "station_id": "58555",
+      "station_name": "新昌",
+      "Lon": "120.88",
+      "Lat": "29.52",
+      "TEM_Max": "21.9",
+      "TEM_Min": "12.2",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "333",
+      "station_id": "58556",
+      "station_name": "嵊州",
+      "Lon": "120.82",
+      "Lat": "29.6",
+      "TEM_Max": "21.1",
+      "TEM_Min": "12.2",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "334",
+      "station_id": "58557",
+      "station_name": "义乌",
+      "Lon": "120.08",
+      "Lat": "29.33",
+      "TEM_Max": "22.2",
+      "TEM_Min": "13.6",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "335",
+      "station_id": "58558",
+      "station_name": "东阳",
+      "Lon": "120.22",
+      "Lat": "29.27",
+      "TEM_Max": "23.1",
+      "TEM_Min": "13.9",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "336",
+      "station_id": "58559",
+      "station_name": "天台",
+      "Lon": "120.97",
+      "Lat": "29.15",
+      "TEM_Max": "23.7",
+      "TEM_Min": "13.2",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "337",
+      "station_id": "58560",
+      "station_name": "磐安",
+      "Lon": "120.43",
+      "Lat": "29.05",
+      "TEM_Max": "21.9",
+      "TEM_Min": "11.3",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "338",
+      "station_id": "58561",
+      "station_name": "镇海",
+      "Lon": "121.6",
+      "Lat": "29.98",
+      "TEM_Max": "20.6",
+      "TEM_Min": "12.3",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "339",
+      "station_id": "58562",
+      "station_name": "鄞州",
+      "Lon": "121.5",
+      "Lat": "29.8",
+      "TEM_Max": "21.1",
+      "TEM_Min": "12.8",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "340",
+      "station_id": "58563",
+      "station_name": "北仑",
+      "Lon": "121.83",
+      "Lat": "29.88",
+      "TEM_Max": "20.9",
+      "TEM_Min": "12.3",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "341",
+      "station_id": "58565",
+      "station_name": "奉化",
+      "Lon": "121.38",
+      "Lat": "29.7",
+      "TEM_Max": "21.7",
+      "TEM_Min": "12.7",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "342",
+      "station_id": "58566",
+      "station_name": "象山",
+      "Lon": "121.92",
+      "Lat": "29.38",
+      "TEM_Max": "22.2",
+      "TEM_Min": "13.2",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "343",
+      "station_id": "58567",
+      "station_name": "宁海",
+      "Lon": "121.43",
+      "Lat": "29.32",
+      "TEM_Max": "21.8",
+      "TEM_Min": "13.2",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "344",
+      "station_id": "58568",
+      "station_name": "三门",
+      "Lon": "121.38",
+      "Lat": "29.12",
+      "TEM_Max": "22.6",
+      "TEM_Min": "12.2",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "345",
+      "station_id": "58569",
+      "station_name": "石浦",
+      "Lon": "121.95",
+      "Lat": "29.2",
+      "TEM_Max": "22.2",
+      "TEM_Min": "14.7",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "346",
+      "station_id": "58570",
+      "station_name": "普陀",
+      "Lon": "122.3",
+      "Lat": "29.95",
+      "TEM_Max": "20.8",
+      "TEM_Min": "15.1",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "347",
+      "station_id": "58631",
+      "station_name": "常山",
+      "Lon": "118.5",
+      "Lat": "28.9",
+      "TEM_Max": "23.3",
+      "TEM_Min": "14.3",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "348",
+      "station_id": "58632",
+      "station_name": "江山",
+      "Lon": "118.6",
+      "Lat": "28.72",
+      "TEM_Max": "22.1",
+      "TEM_Min": "15.2",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "349",
+      "station_id": "58633",
+      "station_name": "衢州",
+      "Lon": "118.9",
+      "Lat": "29",
+      "TEM_Max": "22.3",
+      "TEM_Min": "15.6",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "350",
+      "station_id": "58642",
+      "station_name": "武义",
+      "Lon": "119.8",
+      "Lat": "28.88",
+      "TEM_Max": "23.8",
+      "TEM_Min": "15.4",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "351",
+      "station_id": "58643",
+      "station_name": "永康",
+      "Lon": "120.03",
+      "Lat": "28.9",
+      "TEM_Max": "23.1",
+      "TEM_Min": "15.1",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "352",
+      "station_id": "58644",
+      "station_name": "遂昌",
+      "Lon": "119.28",
+      "Lat": "28.6",
+      "TEM_Max": "24",
+      "TEM_Min": "14.3",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "353",
+      "station_id": "58645",
+      "station_name": "松阳",
+      "Lon": "119.48",
+      "Lat": "28.43",
+      "TEM_Max": "25.1",
+      "TEM_Min": "15.3",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "354",
+      "station_id": "58646",
+      "station_name": "丽水",
+      "Lon": "119.93",
+      "Lat": "28.47",
+      "TEM_Max": "25.2",
+      "TEM_Min": "16.3",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "355",
+      "station_id": "58647",
+      "station_name": "龙泉",
+      "Lon": "119.13",
+      "Lat": "28.08",
+      "TEM_Max": "24.2",
+      "TEM_Min": "17.1",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "356",
+      "station_id": "58648",
+      "station_name": "景宁",
+      "Lon": "119.63",
+      "Lat": "28",
+      "TEM_Max": "23.9",
+      "TEM_Min": "16.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "357",
+      "station_id": "58652",
+      "station_name": "仙居",
+      "Lon": "120.72",
+      "Lat": "28.87",
+      "TEM_Max": "23.7",
+      "TEM_Min": "14.7",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "358",
+      "station_id": "58654",
+      "station_name": "缙云",
+      "Lon": "120.08",
+      "Lat": "28.67",
+      "TEM_Max": "23.1",
+      "TEM_Min": "13.7",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "359",
+      "station_id": "58656",
+      "station_name": "乐清市清远路",
+      "Lon": "120.97",
+      "Lat": "28.07",
+      "TEM_Max": "22.9",
+      "TEM_Min": "16.4",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "360",
+      "station_id": "58657",
+      "station_name": "青田",
+      "Lon": "120.28",
+      "Lat": "28.13",
+      "TEM_Max": "25.8",
+      "TEM_Min": "17.8",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "361",
+      "station_id": "58658",
+      "station_name": "永嘉",
+      "Lon": "120.68",
+      "Lat": "28.15",
+      "TEM_Max": "26.3",
+      "TEM_Min": "16.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "362",
+      "station_id": "58659",
+      "station_name": "温州市海坦山路",
+      "Lon": "120.65",
+      "Lat": "28.03",
+      "TEM_Max": "25.5",
+      "TEM_Min": "17.8",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "363",
+      "station_id": "58660",
+      "station_name": "临海",
+      "Lon": "121.18",
+      "Lat": "28.87",
+      "TEM_Max": "23.7",
+      "TEM_Min": "12.1",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "364",
+      "station_id": "58664",
+      "station_name": "温岭",
+      "Lon": "121.37",
+      "Lat": "28.37",
+      "TEM_Max": "22.8",
+      "TEM_Min": "15.1",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "365",
+      "station_id": "58665",
+      "station_name": "椒江",
+      "Lon": "121.42",
+      "Lat": "28.62",
+      "TEM_Max": "23.8",
+      "TEM_Min": "14.9",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "366",
+      "station_id": "58666",
+      "station_name": "大陈",
+      "Lon": "121.9",
+      "Lat": "28.45",
+      "TEM_Max": "20.4",
+      "TEM_Min": "16.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "367",
+      "station_id": "58667",
+      "station_name": "玉环县坎门街道东山头",
+      "Lon": "121.27",
+      "Lat": "28.08",
+      "TEM_Max": "21.5",
+      "TEM_Min": "15.7",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "368",
+      "station_id": "58742",
+      "station_name": "云和",
+      "Lon": "119.57",
+      "Lat": "28.1",
+      "TEM_Max": "24.7",
+      "TEM_Min": "17.1",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "369",
+      "station_id": "58745",
+      "station_name": "庆元",
+      "Lon": "119.08",
+      "Lat": "27.62",
+      "TEM_Max": "24.2",
+      "TEM_Min": "16.5",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "370",
+      "station_id": "58746",
+      "station_name": "泰顺",
+      "Lon": "119.7",
+      "Lat": "27.55",
+      "TEM_Max": "22.1",
+      "TEM_Min": "14.8",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "371",
+      "station_id": "58750",
+      "station_name": "文成",
+      "Lon": "133.99",
+      "Lat": "34.73",
+      "TEM_Max": "25.5",
+      "TEM_Min": "17.4",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "372",
+      "station_id": "58751",
+      "station_name": "平阳",
+      "Lon": "120.57",
+      "Lat": "27.67",
+      "TEM_Max": "20.8",
+      "TEM_Min": "15.6",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "373",
+      "station_id": "58752",
+      "station_name": "瑞安",
+      "Lon": "120.65",
+      "Lat": "27.79",
+      "TEM_Max": "23.8",
+      "TEM_Min": "17.8",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "374",
+      "station_id": "58755",
+      "station_name": "苍南",
+      "Lon": "120.39",
+      "Lat": "27.5",
+      "TEM_Max": "23.1",
+      "TEM_Min": "16.8",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "375",
+      "station_id": "58760",
+      "station_name": "洞头",
+      "Lon": "121.15",
+      "Lat": "27.83",
+      "TEM_Max": "20.8",
+      "TEM_Min": "17.2",
+      "datetime": "30/10/2020 00:00:00"
+    },
+    {
+      "id": "376",
+      "station_id": "58443",
+      "station_name": "长兴",
+      "Lon": "119.89",
+      "Lat": "31.02",
+      "TEM_Max": "21.9",
+      "TEM_Min": "11.8",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "377",
+      "station_id": "58444",
+      "station_name": "余杭",
+      "Lon": "120.28",
+      "Lat": "30.42",
+      "TEM_Max": "22.1",
+      "TEM_Min": "13.5",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "378",
+      "station_id": "58446",
+      "station_name": "安吉",
+      "Lon": "119.7",
+      "Lat": "30.63",
+      "TEM_Max": "23.3",
+      "TEM_Min": "12.1",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "379",
+      "station_id": "58448",
+      "station_name": "临安",
+      "Lon": "119.7",
+      "Lat": "30.22",
+      "TEM_Max": "22.9",
+      "TEM_Min": "12",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "380",
+      "station_id": "58449",
+      "station_name": "富阳",
+      "Lon": "119.95",
+      "Lat": "30.05",
+      "TEM_Max": "23.2",
+      "TEM_Min": "13.6",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "381",
+      "station_id": "58450",
+      "station_name": "湖州",
+      "Lon": "120.05",
+      "Lat": "30.87",
+      "TEM_Max": "22.2",
+      "TEM_Min": "11.8",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "382",
+      "station_id": "58451",
+      "station_name": "嘉善",
+      "Lon": "120.93",
+      "Lat": "30.83",
+      "TEM_Max": "22.3",
+      "TEM_Min": "10.8",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "383",
+      "station_id": "58452",
+      "station_name": "嘉兴",
+      "Lon": "120.77",
+      "Lat": "30.73",
+      "TEM_Max": "21.6",
+      "TEM_Min": "11.4",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "384",
+      "station_id": "58453",
+      "station_name": "绍兴",
+      "Lon": "120.5",
+      "Lat": "30.07",
+      "TEM_Max": "23.1",
+      "TEM_Min": "14",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "385",
+      "station_id": "58454",
+      "station_name": "德清",
+      "Lon": "119.98",
+      "Lat": "30.53",
+      "TEM_Max": "22.3",
+      "TEM_Min": "12.5",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "386",
+      "station_id": "58455",
+      "station_name": "海宁",
+      "Lon": "120.48",
+      "Lat": "30.47",
+      "TEM_Max": "22.1",
+      "TEM_Min": "9.7",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "387",
+      "station_id": "58456",
+      "station_name": "桐乡",
+      "Lon": "120.52",
+      "Lat": "30.63",
+      "TEM_Max": "21.8",
+      "TEM_Min": "11.9",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "388",
+      "station_id": "58457",
+      "station_name": "杭州",
+      "Lon": "120.17",
+      "Lat": "30.23",
+      "TEM_Max": "22.8",
+      "TEM_Min": "13.9",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "389",
+      "station_id": "58458",
+      "station_name": "海盐",
+      "Lon": "120.9",
+      "Lat": "30.53",
+      "TEM_Max": "20.7",
+      "TEM_Min": "12",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "390",
+      "station_id": "58459",
+      "station_name": "萧山",
+      "Lon": "120.28",
+      "Lat": "30.18",
+      "TEM_Max": "22.5",
+      "TEM_Min": "14.2",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "391",
+      "station_id": "58464",
+      "station_name": "平湖",
+      "Lon": "121.12",
+      "Lat": "30.65",
+      "TEM_Max": "20.6",
+      "TEM_Min": "10.1",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "392",
+      "station_id": "58467",
+      "station_name": "慈溪",
+      "Lon": "121.3",
+      "Lat": "30.2",
+      "TEM_Max": "21.9",
+      "TEM_Min": "10.8",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "393",
+      "station_id": "58468",
+      "station_name": "余姚",
+      "Lon": "121.13",
+      "Lat": "30.02",
+      "TEM_Max": "22.6",
+      "TEM_Min": "12",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "394",
+      "station_id": "58472",
+      "station_name": "嵊泗",
+      "Lon": "122.45",
+      "Lat": "30.73",
+      "TEM_Max": "20",
+      "TEM_Min": "16.3",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "395",
+      "station_id": "58477",
+      "station_name": "定海",
+      "Lon": "122.1",
+      "Lat": "30.03",
+      "TEM_Max": "23.5",
+      "TEM_Min": "12.9",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "396",
+      "station_id": "58484",
+      "station_name": "岱山",
+      "Lon": "122.2",
+      "Lat": "30.25",
+      "TEM_Max": "21.2",
+      "TEM_Min": "16",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "397",
+      "station_id": "58537",
+      "station_name": "开化",
+      "Lon": "118.4",
+      "Lat": "29.13",
+      "TEM_Max": "24.6",
+      "TEM_Min": "13.7",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "398",
+      "station_id": "58542",
+      "station_name": "桐庐",
+      "Lon": "119.68",
+      "Lat": "29.82",
+      "TEM_Max": "23.1",
+      "TEM_Min": "13",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "399",
+      "station_id": "58543",
+      "station_name": "淳安",
+      "Lon": "119.02",
+      "Lat": "29.62",
+      "TEM_Max": "23.1",
+      "TEM_Min": "14.5",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "400",
+      "station_id": "58544",
+      "station_name": "建德",
+      "Lon": "119.27",
+      "Lat": "29.48",
+      "TEM_Max": "23.9",
+      "TEM_Min": "13.3",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "401",
+      "station_id": "58546",
+      "station_name": "浦江",
+      "Lon": "119.88",
+      "Lat": "29.47",
+      "TEM_Max": "23.6",
+      "TEM_Min": "12.1",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "402",
+      "station_id": "58547",
+      "station_name": "龙游南",
+      "Lon": "119.19",
+      "Lat": "29.04",
+      "TEM_Max": "22.9",
+      "TEM_Min": "14.1",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "403",
+      "station_id": "58548",
+      "station_name": "兰溪",
+      "Lon": "119.48",
+      "Lat": "29.22",
+      "TEM_Max": "23.8",
+      "TEM_Min": "14.6",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "404",
+      "station_id": "58549",
+      "station_name": "金华",
+      "Lon": "119.65",
+      "Lat": "29.12",
+      "TEM_Max": "23.9",
+      "TEM_Min": "14.5",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "405",
+      "station_id": "58550",
+      "station_name": "诸暨",
+      "Lon": "120.25",
+      "Lat": "29.7",
+      "TEM_Max": "24.1",
+      "TEM_Min": "12.6",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "406",
+      "station_id": "58553",
+      "station_name": "上虞",
+      "Lon": "120.82",
+      "Lat": "30.05",
+      "TEM_Max": "22.5",
+      "TEM_Min": "11.4",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "407",
+      "station_id": "58555",
+      "station_name": "新昌",
+      "Lon": "120.88",
+      "Lat": "29.52",
+      "TEM_Max": "23.5",
+      "TEM_Min": "11.3",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "408",
+      "station_id": "58556",
+      "station_name": "嵊州",
+      "Lon": "120.82",
+      "Lat": "29.6",
+      "TEM_Max": "22.9",
+      "TEM_Min": "11.4",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "409",
+      "station_id": "58557",
+      "station_name": "义乌",
+      "Lon": "120.08",
+      "Lat": "29.33",
+      "TEM_Max": "23.6",
+      "TEM_Min": "12.9",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "410",
+      "station_id": "58558",
+      "station_name": "东阳",
+      "Lon": "120.22",
+      "Lat": "29.27",
+      "TEM_Max": "24.5",
+      "TEM_Min": "13.8",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "411",
+      "station_id": "58559",
+      "station_name": "天台",
+      "Lon": "120.97",
+      "Lat": "29.15",
+      "TEM_Max": "23.4",
+      "TEM_Min": "11.1",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "412",
+      "station_id": "58560",
+      "station_name": "磐安",
+      "Lon": "120.43",
+      "Lat": "29.05",
+      "TEM_Max": "23.5",
+      "TEM_Min": "10.3",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "413",
+      "station_id": "58561",
+      "station_name": "镇海",
+      "Lon": "121.6",
+      "Lat": "29.98",
+      "TEM_Max": "22.1",
+      "TEM_Min": "11.7",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "414",
+      "station_id": "58562",
+      "station_name": "鄞州",
+      "Lon": "121.5",
+      "Lat": "29.8",
+      "TEM_Max": "23.2",
+      "TEM_Min": "12.2",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "415",
+      "station_id": "58563",
+      "station_name": "北仑",
+      "Lon": "121.83",
+      "Lat": "29.88",
+      "TEM_Max": "22.7",
+      "TEM_Min": "12",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "416",
+      "station_id": "58565",
+      "station_name": "奉化",
+      "Lon": "121.38",
+      "Lat": "29.7",
+      "TEM_Max": "23.5",
+      "TEM_Min": "11.3",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "417",
+      "station_id": "58566",
+      "station_name": "象山",
+      "Lon": "121.92",
+      "Lat": "29.38",
+      "TEM_Max": "22.1",
+      "TEM_Min": "14.2",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "418",
+      "station_id": "58567",
+      "station_name": "宁海",
+      "Lon": "121.43",
+      "Lat": "29.32",
+      "TEM_Max": "23.3",
+      "TEM_Min": "11.5",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "419",
+      "station_id": "58568",
+      "station_name": "三门",
+      "Lon": "121.38",
+      "Lat": "29.12",
+      "TEM_Max": "24.3",
+      "TEM_Min": "11.6",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "420",
+      "station_id": "58569",
+      "station_name": "石浦",
+      "Lon": "121.95",
+      "Lat": "29.2",
+      "TEM_Max": "23.4",
+      "TEM_Min": "15.1",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "421",
+      "station_id": "58570",
+      "station_name": "普陀",
+      "Lon": "122.3",
+      "Lat": "29.95",
+      "TEM_Max": "22.9",
+      "TEM_Min": "15",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "422",
+      "station_id": "58631",
+      "station_name": "常山",
+      "Lon": "118.5",
+      "Lat": "28.9",
+      "TEM_Max": "23.8",
+      "TEM_Min": "15.8",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "423",
+      "station_id": "58632",
+      "station_name": "江山",
+      "Lon": "118.6",
+      "Lat": "28.72",
+      "TEM_Max": "23.1",
+      "TEM_Min": "15.1",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "424",
+      "station_id": "58633",
+      "station_name": "衢州",
+      "Lon": "118.9",
+      "Lat": "29",
+      "TEM_Max": "22.8",
+      "TEM_Min": "13.8",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "425",
+      "station_id": "58642",
+      "station_name": "武义",
+      "Lon": "119.8",
+      "Lat": "28.88",
+      "TEM_Max": "24.1",
+      "TEM_Min": "12.4",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "426",
+      "station_id": "58643",
+      "station_name": "永康",
+      "Lon": "120.03",
+      "Lat": "28.9",
+      "TEM_Max": "24.6",
+      "TEM_Min": "13.6",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "427",
+      "station_id": "58644",
+      "station_name": "遂昌",
+      "Lon": "119.28",
+      "Lat": "28.6",
+      "TEM_Max": "24.5",
+      "TEM_Min": "12.2",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "428",
+      "station_id": "58645",
+      "station_name": "松阳",
+      "Lon": "119.48",
+      "Lat": "28.43",
+      "TEM_Max": "25.8",
+      "TEM_Min": "12.4",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "429",
+      "station_id": "58646",
+      "station_name": "丽水",
+      "Lon": "119.93",
+      "Lat": "28.47",
+      "TEM_Max": "26.2",
+      "TEM_Min": "13.2",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "430",
+      "station_id": "58647",
+      "station_name": "龙泉",
+      "Lon": "119.13",
+      "Lat": "28.08",
+      "TEM_Max": "25.8",
+      "TEM_Min": "13.9",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "431",
+      "station_id": "58648",
+      "station_name": "景宁",
+      "Lon": "119.63",
+      "Lat": "28",
+      "TEM_Max": "24.6",
+      "TEM_Min": "13.1",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "432",
+      "station_id": "58652",
+      "station_name": "仙居",
+      "Lon": "120.72",
+      "Lat": "28.87",
+      "TEM_Max": "24.2",
+      "TEM_Min": "13.2",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "433",
+      "station_id": "58654",
+      "station_name": "缙云",
+      "Lon": "120.08",
+      "Lat": "28.67",
+      "TEM_Max": "25.2",
+      "TEM_Min": "10.9",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "434",
+      "station_id": "58656",
+      "station_name": "乐清市清远路",
+      "Lon": "120.97",
+      "Lat": "28.07",
+      "TEM_Max": "23.6",
+      "TEM_Min": "15.2",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "435",
+      "station_id": "58657",
+      "station_name": "青田",
+      "Lon": "120.28",
+      "Lat": "28.13",
+      "TEM_Max": "24.7",
+      "TEM_Min": "14.2",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "436",
+      "station_id": "58658",
+      "station_name": "永嘉",
+      "Lon": "120.68",
+      "Lat": "28.15",
+      "TEM_Max": "25.9",
+      "TEM_Min": "13.2",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "437",
+      "station_id": "58659",
+      "station_name": "温州市海坦山路",
+      "Lon": "120.65",
+      "Lat": "28.03",
+      "TEM_Max": "24.1",
+      "TEM_Min": "15.1",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "438",
+      "station_id": "58660",
+      "station_name": "临海",
+      "Lon": "121.18",
+      "Lat": "28.87",
+      "TEM_Max": "24",
+      "TEM_Min": "11.2",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "439",
+      "station_id": "58664",
+      "station_name": "温岭",
+      "Lon": "121.37",
+      "Lat": "28.37",
+      "TEM_Max": "23.3",
+      "TEM_Min": "14.3",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "440",
+      "station_id": "58665",
+      "station_name": "椒江",
+      "Lon": "121.42",
+      "Lat": "28.62",
+      "TEM_Max": "22.9",
+      "TEM_Min": "15.1",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "441",
+      "station_id": "58666",
+      "station_name": "大陈",
+      "Lon": "121.9",
+      "Lat": "28.45",
+      "TEM_Max": "21.9",
+      "TEM_Min": "16.4",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "442",
+      "station_id": "58667",
+      "station_name": "玉环县坎门街道东山头",
+      "Lon": "121.27",
+      "Lat": "28.08",
+      "TEM_Max": "23.1",
+      "TEM_Min": "14.5",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "443",
+      "station_id": "58742",
+      "station_name": "云和",
+      "Lon": "119.57",
+      "Lat": "28.1",
+      "TEM_Max": "25.8",
+      "TEM_Min": "13.8",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "444",
+      "station_id": "58745",
+      "station_name": "庆元",
+      "Lon": "119.08",
+      "Lat": "27.62",
+      "TEM_Max": "25.4",
+      "TEM_Min": "13.5",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "445",
+      "station_id": "58746",
+      "station_name": "泰顺",
+      "Lon": "119.7",
+      "Lat": "27.55",
+      "TEM_Max": "21.8",
+      "TEM_Min": "12",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "446",
+      "station_id": "58750",
+      "station_name": "文成",
+      "Lon": "133.99",
+      "Lat": "34.73",
+      "TEM_Max": "25",
+      "TEM_Min": "13.5",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "447",
+      "station_id": "58751",
+      "station_name": "平阳",
+      "Lon": "120.57",
+      "Lat": "27.67",
+      "TEM_Max": "22.1",
+      "TEM_Min": "12.7",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "448",
+      "station_id": "58752",
+      "station_name": "瑞安",
+      "Lon": "120.65",
+      "Lat": "27.79",
+      "TEM_Max": "24.5",
+      "TEM_Min": "14.9",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "449",
+      "station_id": "58755",
+      "station_name": "苍南",
+      "Lon": "120.39",
+      "Lat": "27.5",
+      "TEM_Max": "23.3",
+      "TEM_Min": "13.2",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "450",
+      "station_id": "58760",
+      "station_name": "洞头",
+      "Lon": "121.15",
+      "Lat": "27.83",
+      "TEM_Max": "22.2",
+      "TEM_Min": "17",
+      "datetime": "31/10/2020 00:00:00"
+    },
+    {
+      "id": "451",
+      "station_id": "58443",
+      "station_name": "长兴",
+      "Lon": "119.89",
+      "Lat": "31.02",
+      "TEM_Max": "20.7",
+      "TEM_Min": "15.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "452",
+      "station_id": "58444",
+      "station_name": "余杭",
+      "Lon": "120.28",
+      "Lat": "30.42",
+      "TEM_Max": "21.2",
+      "TEM_Min": "15.2",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "453",
+      "station_id": "58446",
+      "station_name": "安吉",
+      "Lon": "119.7",
+      "Lat": "30.63",
+      "TEM_Max": "21.9",
+      "TEM_Min": "15.6",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "454",
+      "station_id": "58448",
+      "station_name": "临安",
+      "Lon": "119.7",
+      "Lat": "30.22",
+      "TEM_Max": "21.7",
+      "TEM_Min": "14",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "455",
+      "station_id": "58449",
+      "station_name": "富阳",
+      "Lon": "119.95",
+      "Lat": "30.05",
+      "TEM_Max": "21.1",
+      "TEM_Min": "15.2",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "456",
+      "station_id": "58450",
+      "station_name": "湖州",
+      "Lon": "120.05",
+      "Lat": "30.87",
+      "TEM_Max": "20.6",
+      "TEM_Min": "15.5",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "457",
+      "station_id": "58451",
+      "station_name": "嘉善",
+      "Lon": "120.93",
+      "Lat": "30.83",
+      "TEM_Max": "21",
+      "TEM_Min": "13.8",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "458",
+      "station_id": "58452",
+      "station_name": "嘉兴",
+      "Lon": "120.77",
+      "Lat": "30.73",
+      "TEM_Max": "21.3",
+      "TEM_Min": "15.4",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "459",
+      "station_id": "58453",
+      "station_name": "绍兴",
+      "Lon": "120.5",
+      "Lat": "30.07",
+      "TEM_Max": "22.4",
+      "TEM_Min": "15.5",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "460",
+      "station_id": "58454",
+      "station_name": "德清",
+      "Lon": "119.98",
+      "Lat": "30.53",
+      "TEM_Max": "21.9",
+      "TEM_Min": "14.8",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "461",
+      "station_id": "58455",
+      "station_name": "海宁",
+      "Lon": "120.48",
+      "Lat": "30.47",
+      "TEM_Max": "21.2",
+      "TEM_Min": "12.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "462",
+      "station_id": "58456",
+      "station_name": "桐乡",
+      "Lon": "120.52",
+      "Lat": "30.63",
+      "TEM_Max": "21.6",
+      "TEM_Min": "16.8",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "463",
+      "station_id": "58457",
+      "station_name": "杭州",
+      "Lon": "120.17",
+      "Lat": "30.23",
+      "TEM_Max": "21.8",
+      "TEM_Min": "16.1",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "464",
+      "station_id": "58458",
+      "station_name": "海盐",
+      "Lon": "120.9",
+      "Lat": "30.53",
+      "TEM_Max": "21.3",
+      "TEM_Min": "16.1",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "465",
+      "station_id": "58459",
+      "station_name": "萧山",
+      "Lon": "120.28",
+      "Lat": "30.18",
+      "TEM_Max": "22",
+      "TEM_Min": "15.7",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "466",
+      "station_id": "58464",
+      "station_name": "平湖",
+      "Lon": "121.12",
+      "Lat": "30.65",
+      "TEM_Max": "21.7",
+      "TEM_Min": "15.7",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "467",
+      "station_id": "58467",
+      "station_name": "慈溪",
+      "Lon": "121.3",
+      "Lat": "30.2",
+      "TEM_Max": "23.5",
+      "TEM_Min": "13.6",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "468",
+      "station_id": "58468",
+      "station_name": "余姚",
+      "Lon": "121.13",
+      "Lat": "30.02",
+      "TEM_Max": "22.9",
+      "TEM_Min": "14.6",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "469",
+      "station_id": "58472",
+      "station_name": "嵊泗",
+      "Lon": "122.45",
+      "Lat": "30.73",
+      "TEM_Max": "23.9",
+      "TEM_Min": "17.5",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "470",
+      "station_id": "58477",
+      "station_name": "定海",
+      "Lon": "122.1",
+      "Lat": "30.03",
+      "TEM_Max": "24",
+      "TEM_Min": "14.7",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "471",
+      "station_id": "58484",
+      "station_name": "岱山",
+      "Lon": "122.2",
+      "Lat": "30.25",
+      "TEM_Max": "23.7",
+      "TEM_Min": "16.7",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "472",
+      "station_id": "58537",
+      "station_name": "开化",
+      "Lon": "118.4",
+      "Lat": "29.13",
+      "TEM_Max": "20.5",
+      "TEM_Min": "14.9",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "473",
+      "station_id": "58542",
+      "station_name": "桐庐",
+      "Lon": "119.68",
+      "Lat": "29.82",
+      "TEM_Max": "20.3",
+      "TEM_Min": "14.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "474",
+      "station_id": "58543",
+      "station_name": "淳安",
+      "Lon": "119.02",
+      "Lat": "29.62",
+      "TEM_Max": "19.2",
+      "TEM_Min": "15.7",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "475",
+      "station_id": "58544",
+      "station_name": "建德",
+      "Lon": "119.27",
+      "Lat": "29.48",
+      "TEM_Max": "19.9",
+      "TEM_Min": "14.6",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "476",
+      "station_id": "58546",
+      "station_name": "浦江",
+      "Lon": "119.88",
+      "Lat": "29.47",
+      "TEM_Max": "22.4",
+      "TEM_Min": "13.5",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "477",
+      "station_id": "58547",
+      "station_name": "龙游南",
+      "Lon": "119.19",
+      "Lat": "29.04",
+      "TEM_Max": "21.2",
+      "TEM_Min": "14.8",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "478",
+      "station_id": "58548",
+      "station_name": "兰溪",
+      "Lon": "119.48",
+      "Lat": "29.22",
+      "TEM_Max": "21.9",
+      "TEM_Min": "15.6",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "479",
+      "station_id": "58549",
+      "station_name": "金华",
+      "Lon": "119.65",
+      "Lat": "29.12",
+      "TEM_Max": "22.4",
+      "TEM_Min": "16.8",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "480",
+      "station_id": "58550",
+      "station_name": "诸暨",
+      "Lon": "120.25",
+      "Lat": "29.7",
+      "TEM_Max": "21.9",
+      "TEM_Min": "14.2",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "481",
+      "station_id": "58553",
+      "station_name": "上虞",
+      "Lon": "120.82",
+      "Lat": "30.05",
+      "TEM_Max": "22",
+      "TEM_Min": "13.9",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "482",
+      "station_id": "58555",
+      "station_name": "新昌",
+      "Lon": "120.88",
+      "Lat": "29.52",
+      "TEM_Max": "23",
+      "TEM_Min": "13.9",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "483",
+      "station_id": "58556",
+      "station_name": "嵊州",
+      "Lon": "120.82",
+      "Lat": "29.6",
+      "TEM_Max": "22.5",
+      "TEM_Min": "13.5",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "484",
+      "station_id": "58557",
+      "station_name": "义乌",
+      "Lon": "120.08",
+      "Lat": "29.33",
+      "TEM_Max": "22.6",
+      "TEM_Min": "15.1",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "485",
+      "station_id": "58558",
+      "station_name": "东阳",
+      "Lon": "120.22",
+      "Lat": "29.27",
+      "TEM_Max": "23.9",
+      "TEM_Min": "16.2",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "486",
+      "station_id": "58559",
+      "station_name": "天台",
+      "Lon": "120.97",
+      "Lat": "29.15",
+      "TEM_Max": "25",
+      "TEM_Min": "13.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "487",
+      "station_id": "58560",
+      "station_name": "磐安",
+      "Lon": "120.43",
+      "Lat": "29.05",
+      "TEM_Max": "21.9",
+      "TEM_Min": "13.1",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "488",
+      "station_id": "58561",
+      "station_name": "镇海",
+      "Lon": "121.6",
+      "Lat": "29.98",
+      "TEM_Max": "24.5",
+      "TEM_Min": "12.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "489",
+      "station_id": "58562",
+      "station_name": "鄞州",
+      "Lon": "121.5",
+      "Lat": "29.8",
+      "TEM_Max": "24.6",
+      "TEM_Min": "14.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "490",
+      "station_id": "58563",
+      "station_name": "北仑",
+      "Lon": "121.83",
+      "Lat": "29.88",
+      "TEM_Max": "23.9",
+      "TEM_Min": "14",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "491",
+      "station_id": "58565",
+      "station_name": "奉化",
+      "Lon": "121.38",
+      "Lat": "29.7",
+      "TEM_Max": "24.2",
+      "TEM_Min": "13.4",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "492",
+      "station_id": "58566",
+      "station_name": "象山",
+      "Lon": "121.92",
+      "Lat": "29.38",
+      "TEM_Max": "24.5",
+      "TEM_Min": "15.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "493",
+      "station_id": "58567",
+      "station_name": "宁海",
+      "Lon": "121.43",
+      "Lat": "29.32",
+      "TEM_Max": "25.3",
+      "TEM_Min": "13.8",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "494",
+      "station_id": "58568",
+      "station_name": "三门",
+      "Lon": "121.38",
+      "Lat": "29.12",
+      "TEM_Max": "26.7",
+      "TEM_Min": "13.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "495",
+      "station_id": "58569",
+      "station_name": "石浦",
+      "Lon": "121.95",
+      "Lat": "29.2",
+      "TEM_Max": "25.3",
+      "TEM_Min": "16",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "496",
+      "station_id": "58570",
+      "station_name": "普陀",
+      "Lon": "122.3",
+      "Lat": "29.95",
+      "TEM_Max": "26.4",
+      "TEM_Min": "16.5",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "497",
+      "station_id": "58631",
+      "station_name": "常山",
+      "Lon": "118.5",
+      "Lat": "28.9",
+      "TEM_Max": "21.2",
+      "TEM_Min": "16.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "498",
+      "station_id": "58632",
+      "station_name": "江山",
+      "Lon": "118.6",
+      "Lat": "28.72",
+      "TEM_Max": "21.5",
+      "TEM_Min": "15.9",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "499",
+      "station_id": "58633",
+      "station_name": "衢州",
+      "Lon": "118.9",
+      "Lat": "29",
+      "TEM_Max": "20.9",
+      "TEM_Min": "15.4",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "500",
+      "station_id": "58642",
+      "station_name": "武义",
+      "Lon": "119.8",
+      "Lat": "28.88",
+      "TEM_Max": "22.3",
+      "TEM_Min": "14.4",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "501",
+      "station_id": "58643",
+      "station_name": "永康",
+      "Lon": "120.03",
+      "Lat": "28.9",
+      "TEM_Max": "22.5",
+      "TEM_Min": "15.9",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "502",
+      "station_id": "58644",
+      "station_name": "遂昌",
+      "Lon": "119.28",
+      "Lat": "28.6",
+      "TEM_Max": "23.2",
+      "TEM_Min": "14.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "503",
+      "station_id": "58645",
+      "station_name": "松阳",
+      "Lon": "119.48",
+      "Lat": "28.43",
+      "TEM_Max": "23.9",
+      "TEM_Min": "14.2",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "504",
+      "station_id": "58646",
+      "station_name": "丽水",
+      "Lon": "119.93",
+      "Lat": "28.47",
+      "TEM_Max": "25.6",
+      "TEM_Min": "15.7",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "505",
+      "station_id": "58647",
+      "station_name": "龙泉",
+      "Lon": "119.13",
+      "Lat": "28.08",
+      "TEM_Max": "25",
+      "TEM_Min": "12.8",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "506",
+      "station_id": "58648",
+      "station_name": "景宁",
+      "Lon": "119.63",
+      "Lat": "28",
+      "TEM_Max": "25.4",
+      "TEM_Min": "12.6",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "507",
+      "station_id": "58652",
+      "station_name": "仙居",
+      "Lon": "120.72",
+      "Lat": "28.87",
+      "TEM_Max": "25.4",
+      "TEM_Min": "15",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "508",
+      "station_id": "58654",
+      "station_name": "缙云",
+      "Lon": "120.08",
+      "Lat": "28.67",
+      "TEM_Max": "25.3",
+      "TEM_Min": "14.5",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "509",
+      "station_id": "58656",
+      "station_name": "乐清市清远路",
+      "Lon": "120.97",
+      "Lat": "28.07",
+      "TEM_Max": "25.9",
+      "TEM_Min": "15.6",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "510",
+      "station_id": "58657",
+      "station_name": "青田",
+      "Lon": "120.28",
+      "Lat": "28.13",
+      "TEM_Max": "27.7",
+      "TEM_Min": "15.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "511",
+      "station_id": "58658",
+      "station_name": "永嘉",
+      "Lon": "120.68",
+      "Lat": "28.15",
+      "TEM_Max": "27.4",
+      "TEM_Min": "14.4",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "512",
+      "station_id": "58659",
+      "station_name": "温州市海坦山路",
+      "Lon": "120.65",
+      "Lat": "28.03",
+      "TEM_Max": "25.6",
+      "TEM_Min": "15.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "513",
+      "station_id": "58660",
+      "station_name": "临海",
+      "Lon": "121.18",
+      "Lat": "28.87",
+      "TEM_Max": "26.3",
+      "TEM_Min": "13.1",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "514",
+      "station_id": "58664",
+      "station_name": "温岭",
+      "Lon": "121.37",
+      "Lat": "28.37",
+      "TEM_Max": "26",
+      "TEM_Min": "15.7",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "515",
+      "station_id": "58665",
+      "station_name": "椒江",
+      "Lon": "121.42",
+      "Lat": "28.62",
+      "TEM_Max": "25.3",
+      "TEM_Min": "16.7",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "516",
+      "station_id": "58666",
+      "station_name": "大陈",
+      "Lon": "121.9",
+      "Lat": "28.45",
+      "TEM_Max": "23.7",
+      "TEM_Min": "17.7",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "517",
+      "station_id": "58667",
+      "station_name": "玉环县坎门街道东山头",
+      "Lon": "121.27",
+      "Lat": "28.08",
+      "TEM_Max": "24.9",
+      "TEM_Min": "16.4",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "518",
+      "station_id": "58742",
+      "station_name": "云和",
+      "Lon": "119.57",
+      "Lat": "28.1",
+      "TEM_Max": "25.8",
+      "TEM_Min": "13.9",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "519",
+      "station_id": "58745",
+      "station_name": "庆元",
+      "Lon": "119.08",
+      "Lat": "27.62",
+      "TEM_Max": "26.7",
+      "TEM_Min": "13.1",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "520",
+      "station_id": "58746",
+      "station_name": "泰顺",
+      "Lon": "119.7",
+      "Lat": "27.55",
+      "TEM_Max": "23.7",
+      "TEM_Min": "9.8",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "521",
+      "station_id": "58750",
+      "station_name": "文成",
+      "Lon": "133.99",
+      "Lat": "34.73",
+      "TEM_Max": "27.2",
+      "TEM_Min": "13",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "522",
+      "station_id": "58751",
+      "station_name": "平阳",
+      "Lon": "120.57",
+      "Lat": "27.67",
+      "TEM_Max": "24.1",
+      "TEM_Min": "14.3",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "523",
+      "station_id": "58752",
+      "station_name": "瑞安",
+      "Lon": "120.65",
+      "Lat": "27.79",
+      "TEM_Max": "26.8",
+      "TEM_Min": "15.6",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "524",
+      "station_id": "58755",
+      "station_name": "苍南",
+      "Lon": "120.39",
+      "Lat": "27.5",
+      "TEM_Max": "25.4",
+      "TEM_Min": "13.9",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "525",
+      "station_id": "58760",
+      "station_name": "洞头",
+      "Lon": "121.15",
+      "Lat": "27.83",
+      "TEM_Max": "24",
+      "TEM_Min": "17.7",
+      "datetime": "1/11/2020 00:00:00"
+    },
+    {
+      "id": "526",
+      "station_id": "58443",
+      "station_name": "长兴",
+      "Lon": "119.89",
+      "Lat": "31.02",
+      "TEM_Max": "22",
+      "TEM_Min": "15.2",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "527",
+      "station_id": "58444",
+      "station_name": "余杭",
+      "Lon": "120.28",
+      "Lat": "30.42",
+      "TEM_Max": "20.7",
+      "TEM_Min": "14.8",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "528",
+      "station_id": "58446",
+      "station_name": "安吉",
+      "Lon": "119.7",
+      "Lat": "30.63",
+      "TEM_Max": "21.8",
+      "TEM_Min": "14.3",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "529",
+      "station_id": "58448",
+      "station_name": "临安",
+      "Lon": "119.7",
+      "Lat": "30.22",
+      "TEM_Max": "21.1",
+      "TEM_Min": "14.3",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "530",
+      "station_id": "58449",
+      "station_name": "富阳",
+      "Lon": "119.95",
+      "Lat": "30.05",
+      "TEM_Max": "20.9",
+      "TEM_Min": "14.9",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "531",
+      "station_id": "58450",
+      "station_name": "湖州",
+      "Lon": "120.05",
+      "Lat": "30.87",
+      "TEM_Max": "21.3",
+      "TEM_Min": "15.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "532",
+      "station_id": "58451",
+      "station_name": "嘉善",
+      "Lon": "120.93",
+      "Lat": "30.83",
+      "TEM_Max": "22.1",
+      "TEM_Min": "15",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "533",
+      "station_id": "58452",
+      "station_name": "嘉兴",
+      "Lon": "120.77",
+      "Lat": "30.73",
+      "TEM_Max": "21.2",
+      "TEM_Min": "15.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "534",
+      "station_id": "58453",
+      "station_name": "绍兴",
+      "Lon": "120.5",
+      "Lat": "30.07",
+      "TEM_Max": "21.4",
+      "TEM_Min": "16",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "535",
+      "station_id": "58454",
+      "station_name": "德清",
+      "Lon": "119.98",
+      "Lat": "30.53",
+      "TEM_Max": "21.6",
+      "TEM_Min": "14.7",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "536",
+      "station_id": "58455",
+      "station_name": "海宁",
+      "Lon": "120.48",
+      "Lat": "30.47",
+      "TEM_Max": "21.3",
+      "TEM_Min": "13.8",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "537",
+      "station_id": "58456",
+      "station_name": "桐乡",
+      "Lon": "120.52",
+      "Lat": "30.63",
+      "TEM_Max": "21.3",
+      "TEM_Min": "15.3",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "538",
+      "station_id": "58457",
+      "station_name": "杭州",
+      "Lon": "120.17",
+      "Lat": "30.23",
+      "TEM_Max": "21.3",
+      "TEM_Min": "14.9",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "539",
+      "station_id": "58458",
+      "station_name": "海盐",
+      "Lon": "120.9",
+      "Lat": "30.53",
+      "TEM_Max": "21.6",
+      "TEM_Min": "15.4",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "540",
+      "station_id": "58459",
+      "station_name": "萧山",
+      "Lon": "120.28",
+      "Lat": "30.18",
+      "TEM_Max": "20.3",
+      "TEM_Min": "14.7",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "541",
+      "station_id": "58464",
+      "station_name": "平湖",
+      "Lon": "121.12",
+      "Lat": "30.65",
+      "TEM_Max": "21.3",
+      "TEM_Min": "14.9",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "542",
+      "station_id": "58467",
+      "station_name": "慈溪",
+      "Lon": "121.3",
+      "Lat": "30.2",
+      "TEM_Max": "20.9",
+      "TEM_Min": "15.7",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "543",
+      "station_id": "58468",
+      "station_name": "余姚",
+      "Lon": "121.13",
+      "Lat": "30.02",
+      "TEM_Max": "20.1",
+      "TEM_Min": "15.7",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "544",
+      "station_id": "58472",
+      "station_name": "嵊泗",
+      "Lon": "122.45",
+      "Lat": "30.73",
+      "TEM_Max": "19.9",
+      "TEM_Min": "15.7",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "545",
+      "station_id": "58477",
+      "station_name": "定海",
+      "Lon": "122.1",
+      "Lat": "30.03",
+      "TEM_Max": "19.6",
+      "TEM_Min": "16.4",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "546",
+      "station_id": "58484",
+      "station_name": "岱山",
+      "Lon": "122.2",
+      "Lat": "30.25",
+      "TEM_Max": "19.5",
+      "TEM_Min": "16.4",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "547",
+      "station_id": "58537",
+      "station_name": "开化",
+      "Lon": "118.4",
+      "Lat": "29.13",
+      "TEM_Max": "20.8",
+      "TEM_Min": "15.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "548",
+      "station_id": "58542",
+      "station_name": "桐庐",
+      "Lon": "119.68",
+      "Lat": "29.82",
+      "TEM_Max": "19.6",
+      "TEM_Min": "15.2",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "549",
+      "station_id": "58543",
+      "station_name": "淳安",
+      "Lon": "119.02",
+      "Lat": "29.62",
+      "TEM_Max": "20.7",
+      "TEM_Min": "15.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "550",
+      "station_id": "58544",
+      "station_name": "建德",
+      "Lon": "119.27",
+      "Lat": "29.48",
+      "TEM_Max": "18.8",
+      "TEM_Min": "15.1",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "551",
+      "station_id": "58546",
+      "station_name": "浦江",
+      "Lon": "119.88",
+      "Lat": "29.47",
+      "TEM_Max": "20.1",
+      "TEM_Min": "15",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "552",
+      "station_id": "58547",
+      "station_name": "龙游南",
+      "Lon": "119.19",
+      "Lat": "29.04",
+      "TEM_Max": "19",
+      "TEM_Min": "14.4",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "553",
+      "station_id": "58548",
+      "station_name": "兰溪",
+      "Lon": "119.48",
+      "Lat": "29.22",
+      "TEM_Max": "19.6",
+      "TEM_Min": "16.1",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "554",
+      "station_id": "58549",
+      "station_name": "金华",
+      "Lon": "119.65",
+      "Lat": "29.12",
+      "TEM_Max": "20.2",
+      "TEM_Min": "16.4",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "555",
+      "station_id": "58550",
+      "station_name": "诸暨",
+      "Lon": "120.25",
+      "Lat": "29.7",
+      "TEM_Max": "20.3",
+      "TEM_Min": "15.4",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "556",
+      "station_id": "58553",
+      "station_name": "上虞",
+      "Lon": "120.82",
+      "Lat": "30.05",
+      "TEM_Max": "20.5",
+      "TEM_Min": "15.3",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "557",
+      "station_id": "58555",
+      "station_name": "新昌",
+      "Lon": "120.88",
+      "Lat": "29.52",
+      "TEM_Max": "19.6",
+      "TEM_Min": "15.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "558",
+      "station_id": "58556",
+      "station_name": "嵊州",
+      "Lon": "120.82",
+      "Lat": "29.6",
+      "TEM_Max": "19.7",
+      "TEM_Min": "15.6",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "559",
+      "station_id": "58557",
+      "station_name": "义乌",
+      "Lon": "120.08",
+      "Lat": "29.33",
+      "TEM_Max": "19.6",
+      "TEM_Min": "16.1",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "560",
+      "station_id": "58558",
+      "station_name": "东阳",
+      "Lon": "120.22",
+      "Lat": "29.27",
+      "TEM_Max": "20.4",
+      "TEM_Min": "16.2",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "561",
+      "station_id": "58559",
+      "station_name": "天台",
+      "Lon": "120.97",
+      "Lat": "29.15",
+      "TEM_Max": "20.3",
+      "TEM_Min": "16.9",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "562",
+      "station_id": "58560",
+      "station_name": "磐安",
+      "Lon": "120.43",
+      "Lat": "29.05",
+      "TEM_Max": "18.2",
+      "TEM_Min": "13.7",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "563",
+      "station_id": "58561",
+      "station_name": "镇海",
+      "Lon": "121.6",
+      "Lat": "29.98",
+      "TEM_Max": "20.1",
+      "TEM_Min": "15.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "564",
+      "station_id": "58562",
+      "station_name": "鄞州",
+      "Lon": "121.5",
+      "Lat": "29.8",
+      "TEM_Max": "20.3",
+      "TEM_Min": "16.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "565",
+      "station_id": "58563",
+      "station_name": "北仑",
+      "Lon": "121.83",
+      "Lat": "29.88",
+      "TEM_Max": "20.2",
+      "TEM_Min": "17",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "566",
+      "station_id": "58565",
+      "station_name": "奉化",
+      "Lon": "121.38",
+      "Lat": "29.7",
+      "TEM_Max": "20.2",
+      "TEM_Min": "16.2",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "567",
+      "station_id": "58566",
+      "station_name": "象山",
+      "Lon": "121.92",
+      "Lat": "29.38",
+      "TEM_Max": "21",
+      "TEM_Min": "17.8",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "568",
+      "station_id": "58567",
+      "station_name": "宁海",
+      "Lon": "121.43",
+      "Lat": "29.32",
+      "TEM_Max": "20.9",
+      "TEM_Min": "17",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "569",
+      "station_id": "58568",
+      "station_name": "三门",
+      "Lon": "121.38",
+      "Lat": "29.12",
+      "TEM_Max": "21.2",
+      "TEM_Min": "16.7",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "570",
+      "station_id": "58569",
+      "station_name": "石浦",
+      "Lon": "121.95",
+      "Lat": "29.2",
+      "TEM_Max": "19.7",
+      "TEM_Min": "17",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "571",
+      "station_id": "58570",
+      "station_name": "普陀",
+      "Lon": "122.3",
+      "Lat": "29.95",
+      "TEM_Max": "19.5",
+      "TEM_Min": "16.2",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "572",
+      "station_id": "58631",
+      "station_name": "常山",
+      "Lon": "118.5",
+      "Lat": "28.9",
+      "TEM_Max": "20.4",
+      "TEM_Min": "16.6",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "573",
+      "station_id": "58632",
+      "station_name": "江山",
+      "Lon": "118.6",
+      "Lat": "28.72",
+      "TEM_Max": "20.3",
+      "TEM_Min": "16.8",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "574",
+      "station_id": "58633",
+      "station_name": "衢州",
+      "Lon": "118.9",
+      "Lat": "29",
+      "TEM_Max": "19.7",
+      "TEM_Min": "16",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "575",
+      "station_id": "58642",
+      "station_name": "武义",
+      "Lon": "119.8",
+      "Lat": "28.88",
+      "TEM_Max": "19.6",
+      "TEM_Min": "15.6",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "576",
+      "station_id": "58643",
+      "station_name": "永康",
+      "Lon": "120.03",
+      "Lat": "28.9",
+      "TEM_Max": "20.3",
+      "TEM_Min": "17",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "577",
+      "station_id": "58644",
+      "station_name": "遂昌",
+      "Lon": "119.28",
+      "Lat": "28.6",
+      "TEM_Max": "19.3",
+      "TEM_Min": "14.8",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "578",
+      "station_id": "58645",
+      "station_name": "松阳",
+      "Lon": "119.48",
+      "Lat": "28.43",
+      "TEM_Max": "20.3",
+      "TEM_Min": "16.4",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "579",
+      "station_id": "58646",
+      "station_name": "丽水",
+      "Lon": "119.93",
+      "Lat": "28.47",
+      "TEM_Max": "21.5",
+      "TEM_Min": "18.7",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "580",
+      "station_id": "58647",
+      "station_name": "龙泉",
+      "Lon": "119.13",
+      "Lat": "28.08",
+      "TEM_Max": "22",
+      "TEM_Min": "17.3",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "581",
+      "station_id": "58648",
+      "station_name": "景宁",
+      "Lon": "119.63",
+      "Lat": "28",
+      "TEM_Max": "21.2",
+      "TEM_Min": "16.4",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "582",
+      "station_id": "58652",
+      "station_name": "仙居",
+      "Lon": "120.72",
+      "Lat": "28.87",
+      "TEM_Max": "21.8",
+      "TEM_Min": "17.2",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "583",
+      "station_id": "58654",
+      "station_name": "缙云",
+      "Lon": "120.08",
+      "Lat": "28.67",
+      "TEM_Max": "19.8",
+      "TEM_Min": "16.2",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "584",
+      "station_id": "58656",
+      "station_name": "乐清市清远路",
+      "Lon": "120.97",
+      "Lat": "28.07",
+      "TEM_Max": "23.5",
+      "TEM_Min": "19.9",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "585",
+      "station_id": "58657",
+      "station_name": "青田",
+      "Lon": "120.28",
+      "Lat": "28.13",
+      "TEM_Max": "22.9",
+      "TEM_Min": "19.6",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "586",
+      "station_id": "58658",
+      "station_name": "永嘉",
+      "Lon": "120.68",
+      "Lat": "28.15",
+      "TEM_Max": "25",
+      "TEM_Min": "18.9",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "587",
+      "station_id": "58659",
+      "station_name": "温州市海坦山路",
+      "Lon": "120.65",
+      "Lat": "28.03",
+      "TEM_Max": "25.3",
+      "TEM_Min": "19.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "588",
+      "station_id": "58660",
+      "station_name": "临海",
+      "Lon": "121.18",
+      "Lat": "28.87",
+      "TEM_Max": "21.6",
+      "TEM_Min": "19",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "589",
+      "station_id": "58664",
+      "station_name": "温岭",
+      "Lon": "121.37",
+      "Lat": "28.37",
+      "TEM_Max": "22.3",
+      "TEM_Min": "19.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "590",
+      "station_id": "58665",
+      "station_name": "椒江",
+      "Lon": "121.42",
+      "Lat": "28.62",
+      "TEM_Max": "21.9",
+      "TEM_Min": "19.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "591",
+      "station_id": "58666",
+      "station_name": "大陈",
+      "Lon": "121.9",
+      "Lat": "28.45",
+      "TEM_Max": "21.3",
+      "TEM_Min": "18.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "592",
+      "station_id": "58667",
+      "station_name": "玉环县坎门街道东山头",
+      "Lon": "121.27",
+      "Lat": "28.08",
+      "TEM_Max": "26",
+      "TEM_Min": "18.8",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "593",
+      "station_id": "58742",
+      "station_name": "云和",
+      "Lon": "119.57",
+      "Lat": "28.1",
+      "TEM_Max": "21.5",
+      "TEM_Min": "17.1",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "594",
+      "station_id": "58745",
+      "station_name": "庆元",
+      "Lon": "119.08",
+      "Lat": "27.62",
+      "TEM_Max": "22.4",
+      "TEM_Min": "16",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "595",
+      "station_id": "58746",
+      "station_name": "泰顺",
+      "Lon": "119.7",
+      "Lat": "27.55",
+      "TEM_Max": "21.4",
+      "TEM_Min": "15.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "596",
+      "station_id": "58750",
+      "station_name": "文成",
+      "Lon": "133.99",
+      "Lat": "34.73",
+      "TEM_Max": "24.6",
+      "TEM_Min": "17.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "597",
+      "station_id": "58751",
+      "station_name": "平阳",
+      "Lon": "120.57",
+      "Lat": "27.67",
+      "TEM_Max": "25",
+      "TEM_Min": "17.5",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "598",
+      "station_id": "58752",
+      "station_name": "瑞安",
+      "Lon": "120.65",
+      "Lat": "27.79",
+      "TEM_Max": "25.4",
+      "TEM_Min": "19.6",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "599",
+      "station_id": "58755",
+      "station_name": "苍南",
+      "Lon": "120.39",
+      "Lat": "27.5",
+      "TEM_Max": "25.2",
+      "TEM_Min": "16.9",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "600",
+      "station_id": "58760",
+      "station_name": "洞头",
+      "Lon": "121.15",
+      "Lat": "27.83",
+      "TEM_Max": "23.4",
+      "TEM_Min": "19.8",
+      "datetime": "2/11/2020 00:00:00"
+    },
+    {
+      "id": "601",
+      "station_id": "58443",
+      "station_name": "长兴",
+      "Lon": "119.89",
+      "Lat": "31.02",
+      "TEM_Max": "18.3",
+      "TEM_Min": "12.1",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "602",
+      "station_id": "58444",
+      "station_name": "余杭",
+      "Lon": "120.28",
+      "Lat": "30.42",
+      "TEM_Max": "18.3",
+      "TEM_Min": "-1.7",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "603",
+      "station_id": "58446",
+      "station_name": "安吉",
+      "Lon": "119.7",
+      "Lat": "30.63",
+      "TEM_Max": "19.2",
+      "TEM_Min": "9.9",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "604",
+      "station_id": "58448",
+      "station_name": "临安",
+      "Lon": "119.7",
+      "Lat": "30.22",
+      "TEM_Max": "19.1",
+      "TEM_Min": "9.7",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "605",
+      "station_id": "58449",
+      "station_name": "富阳",
+      "Lon": "119.95",
+      "Lat": "30.05",
+      "TEM_Max": "19.4",
+      "TEM_Min": "11.4",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "606",
+      "station_id": "58450",
+      "station_name": "湖州",
+      "Lon": "120.05",
+      "Lat": "30.87",
+      "TEM_Max": "17.9",
+      "TEM_Min": "13",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "607",
+      "station_id": "58451",
+      "station_name": "嘉善",
+      "Lon": "120.93",
+      "Lat": "30.83",
+      "TEM_Max": "19.3",
+      "TEM_Min": "11.9",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "608",
+      "station_id": "58452",
+      "station_name": "嘉兴",
+      "Lon": "120.77",
+      "Lat": "30.73",
+      "TEM_Max": "18.1",
+      "TEM_Min": "11.8",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "609",
+      "station_id": "58453",
+      "station_name": "绍兴",
+      "Lon": "120.5",
+      "Lat": "30.07",
+      "TEM_Max": "19.3",
+      "TEM_Min": "14.3",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "610",
+      "station_id": "58454",
+      "station_name": "德清",
+      "Lon": "119.98",
+      "Lat": "30.53",
+      "TEM_Max": "18.1",
+      "TEM_Min": "11.5",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "611",
+      "station_id": "58455",
+      "station_name": "海宁",
+      "Lon": "120.48",
+      "Lat": "30.47",
+      "TEM_Max": "19.1",
+      "TEM_Min": "9.5",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "612",
+      "station_id": "58456",
+      "station_name": "桐乡",
+      "Lon": "120.52",
+      "Lat": "30.63",
+      "TEM_Max": "18.7",
+      "TEM_Min": "11.9",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "613",
+      "station_id": "58457",
+      "station_name": "杭州",
+      "Lon": "120.17",
+      "Lat": "30.23",
+      "TEM_Max": "19",
+      "TEM_Min": "12.8",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "614",
+      "station_id": "58458",
+      "station_name": "海盐",
+      "Lon": "120.9",
+      "Lat": "30.53",
+      "TEM_Max": "19",
+      "TEM_Min": "12",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "615",
+      "station_id": "58459",
+      "station_name": "萧山",
+      "Lon": "120.28",
+      "Lat": "30.18",
+      "TEM_Max": "17.9",
+      "TEM_Min": "13.5",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "616",
+      "station_id": "58464",
+      "station_name": "平湖",
+      "Lon": "121.12",
+      "Lat": "30.65",
+      "TEM_Max": "18.8",
+      "TEM_Min": "10.7",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "617",
+      "station_id": "58467",
+      "station_name": "慈溪",
+      "Lon": "121.3",
+      "Lat": "30.2",
+      "TEM_Max": "19",
+      "TEM_Min": "12",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "618",
+      "station_id": "58468",
+      "station_name": "余姚",
+      "Lon": "121.13",
+      "Lat": "30.02",
+      "TEM_Max": "19",
+      "TEM_Min": "12.5",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "619",
+      "station_id": "58472",
+      "station_name": "嵊泗",
+      "Lon": "122.45",
+      "Lat": "30.73",
+      "TEM_Max": "17.8",
+      "TEM_Min": "14.2",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "620",
+      "station_id": "58477",
+      "station_name": "定海",
+      "Lon": "122.1",
+      "Lat": "30.03",
+      "TEM_Max": "19",
+      "TEM_Min": "14.4",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "621",
+      "station_id": "58484",
+      "station_name": "岱山",
+      "Lon": "122.2",
+      "Lat": "30.25",
+      "TEM_Max": "18.7",
+      "TEM_Min": "14.6",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "622",
+      "station_id": "58537",
+      "station_name": "开化",
+      "Lon": "118.4",
+      "Lat": "29.13",
+      "TEM_Max": "21.3",
+      "TEM_Min": "12.4",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "623",
+      "station_id": "58542",
+      "station_name": "桐庐",
+      "Lon": "119.68",
+      "Lat": "29.82",
+      "TEM_Max": "19.3",
+      "TEM_Min": "12.2",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "624",
+      "station_id": "58543",
+      "station_name": "淳安",
+      "Lon": "119.02",
+      "Lat": "29.62",
+      "TEM_Max": "20",
+      "TEM_Min": "12.6",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "625",
+      "station_id": "58544",
+      "station_name": "建德",
+      "Lon": "119.27",
+      "Lat": "29.48",
+      "TEM_Max": "20.2",
+      "TEM_Min": "12.5",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "626",
+      "station_id": "58546",
+      "station_name": "浦江",
+      "Lon": "119.88",
+      "Lat": "29.47",
+      "TEM_Max": "20.1",
+      "TEM_Min": "11.2",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "627",
+      "station_id": "58547",
+      "station_name": "龙游南",
+      "Lon": "119.19",
+      "Lat": "29.04",
+      "TEM_Max": "20.4",
+      "TEM_Min": "11.6",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "628",
+      "station_id": "58548",
+      "station_name": "兰溪",
+      "Lon": "119.48",
+      "Lat": "29.22",
+      "TEM_Max": "20.3",
+      "TEM_Min": "12.9",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "629",
+      "station_id": "58549",
+      "station_name": "金华",
+      "Lon": "119.65",
+      "Lat": "29.12",
+      "TEM_Max": "20.5",
+      "TEM_Min": "13.2",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "630",
+      "station_id": "58550",
+      "station_name": "诸暨",
+      "Lon": "120.25",
+      "Lat": "29.7",
+      "TEM_Max": "19.6",
+      "TEM_Min": "12.4",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "631",
+      "station_id": "58553",
+      "station_name": "上虞",
+      "Lon": "120.82",
+      "Lat": "30.05",
+      "TEM_Max": "19.3",
+      "TEM_Min": "11.4",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "632",
+      "station_id": "58555",
+      "station_name": "新昌",
+      "Lon": "120.88",
+      "Lat": "29.52",
+      "TEM_Max": "18.8",
+      "TEM_Min": "12.3",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "633",
+      "station_id": "58556",
+      "station_name": "嵊州",
+      "Lon": "120.82",
+      "Lat": "29.6",
+      "TEM_Max": "18.8",
+      "TEM_Min": "12.5",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "634",
+      "station_id": "58557",
+      "station_name": "义乌",
+      "Lon": "120.08",
+      "Lat": "29.33",
+      "TEM_Max": "19.3",
+      "TEM_Min": "12.2",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "635",
+      "station_id": "58558",
+      "station_name": "东阳",
+      "Lon": "120.22",
+      "Lat": "29.27",
+      "TEM_Max": "20.2",
+      "TEM_Min": "13.5",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "636",
+      "station_id": "58559",
+      "station_name": "天台",
+      "Lon": "120.97",
+      "Lat": "29.15",
+      "TEM_Max": "19.9",
+      "TEM_Min": "13.3",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "637",
+      "station_id": "58560",
+      "station_name": "磐安",
+      "Lon": "120.43",
+      "Lat": "29.05",
+      "TEM_Max": "18",
+      "TEM_Min": "11.3",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "638",
+      "station_id": "58561",
+      "station_name": "镇海",
+      "Lon": "121.6",
+      "Lat": "29.98",
+      "TEM_Max": "19",
+      "TEM_Min": "12.1",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "639",
+      "station_id": "58562",
+      "station_name": "鄞州",
+      "Lon": "121.5",
+      "Lat": "29.8",
+      "TEM_Max": "19.7",
+      "TEM_Min": "13.5",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "640",
+      "station_id": "58563",
+      "station_name": "北仑",
+      "Lon": "121.83",
+      "Lat": "29.88",
+      "TEM_Max": "18.8",
+      "TEM_Min": "12.8",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "641",
+      "station_id": "58565",
+      "station_name": "奉化",
+      "Lon": "121.38",
+      "Lat": "29.7",
+      "TEM_Max": "19.6",
+      "TEM_Min": "13.9",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "642",
+      "station_id": "58566",
+      "station_name": "象山",
+      "Lon": "121.92",
+      "Lat": "29.38",
+      "TEM_Max": "20.1",
+      "TEM_Min": "14.6",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "643",
+      "station_id": "58567",
+      "station_name": "宁海",
+      "Lon": "121.43",
+      "Lat": "29.32",
+      "TEM_Max": "19.9",
+      "TEM_Min": "14.7",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "644",
+      "station_id": "58568",
+      "station_name": "三门",
+      "Lon": "121.38",
+      "Lat": "29.12",
+      "TEM_Max": "21",
+      "TEM_Min": "13.6",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "645",
+      "station_id": "58569",
+      "station_name": "石浦",
+      "Lon": "121.95",
+      "Lat": "29.2",
+      "TEM_Max": "19.5",
+      "TEM_Min": "14.3",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "646",
+      "station_id": "58570",
+      "station_name": "普陀",
+      "Lon": "122.3",
+      "Lat": "29.95",
+      "TEM_Max": "18.7",
+      "TEM_Min": "13.9",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "647",
+      "station_id": "58631",
+      "station_name": "常山",
+      "Lon": "118.5",
+      "Lat": "28.9",
+      "TEM_Max": "22.3",
+      "TEM_Min": "13.1",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "648",
+      "station_id": "58632",
+      "station_name": "江山",
+      "Lon": "118.6",
+      "Lat": "28.72",
+      "TEM_Max": "20.6",
+      "TEM_Min": "14.3",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "649",
+      "station_id": "58633",
+      "station_name": "衢州",
+      "Lon": "118.9",
+      "Lat": "29",
+      "TEM_Max": "20.9",
+      "TEM_Min": "12.5",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "650",
+      "station_id": "58642",
+      "station_name": "武义",
+      "Lon": "119.8",
+      "Lat": "28.88",
+      "TEM_Max": "19.9",
+      "TEM_Min": "12.7",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "651",
+      "station_id": "58643",
+      "station_name": "永康",
+      "Lon": "120.03",
+      "Lat": "28.9",
+      "TEM_Max": "19.9",
+      "TEM_Min": "13.6",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "652",
+      "station_id": "58644",
+      "station_name": "遂昌",
+      "Lon": "119.28",
+      "Lat": "28.6",
+      "TEM_Max": "21.7",
+      "TEM_Min": "11.6",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "653",
+      "station_id": "58645",
+      "station_name": "松阳",
+      "Lon": "119.48",
+      "Lat": "28.43",
+      "TEM_Max": "22.2",
+      "TEM_Min": "12.9",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "654",
+      "station_id": "58646",
+      "station_name": "丽水",
+      "Lon": "119.93",
+      "Lat": "28.47",
+      "TEM_Max": "22.2",
+      "TEM_Min": "15.1",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "655",
+      "station_id": "58647",
+      "station_name": "龙泉",
+      "Lon": "119.13",
+      "Lat": "28.08",
+      "TEM_Max": "22.6",
+      "TEM_Min": "13.7",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "656",
+      "station_id": "58648",
+      "station_name": "景宁",
+      "Lon": "119.63",
+      "Lat": "28",
+      "TEM_Max": "20.6",
+      "TEM_Min": "14.6",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "657",
+      "station_id": "58652",
+      "station_name": "仙居",
+      "Lon": "120.72",
+      "Lat": "28.87",
+      "TEM_Max": "21.2",
+      "TEM_Min": "14.8",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "658",
+      "station_id": "58654",
+      "station_name": "缙云",
+      "Lon": "120.08",
+      "Lat": "28.67",
+      "TEM_Max": "20",
+      "TEM_Min": "13.5",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "659",
+      "station_id": "58656",
+      "station_name": "乐清市清远路",
+      "Lon": "120.97",
+      "Lat": "28.07",
+      "TEM_Max": "22.5",
+      "TEM_Min": "17.3",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "660",
+      "station_id": "58657",
+      "station_name": "青田",
+      "Lon": "120.28",
+      "Lat": "28.13",
+      "TEM_Max": "22.8",
+      "TEM_Min": "16.8",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "661",
+      "station_id": "58658",
+      "station_name": "永嘉",
+      "Lon": "120.68",
+      "Lat": "28.15",
+      "TEM_Max": "25",
+      "TEM_Min": "16.4",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "662",
+      "station_id": "58659",
+      "station_name": "温州市海坦山路",
+      "Lon": "120.65",
+      "Lat": "28.03",
+      "TEM_Max": "23.8",
+      "TEM_Min": "17.1",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "663",
+      "station_id": "58660",
+      "station_name": "临海",
+      "Lon": "121.18",
+      "Lat": "28.87",
+      "TEM_Max": "21.2",
+      "TEM_Min": "13.8",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "664",
+      "station_id": "58664",
+      "station_name": "温岭",
+      "Lon": "121.37",
+      "Lat": "28.37",
+      "TEM_Max": "21.6",
+      "TEM_Min": "16.7",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "665",
+      "station_id": "58665",
+      "station_name": "椒江",
+      "Lon": "121.42",
+      "Lat": "28.62",
+      "TEM_Max": "22.3",
+      "TEM_Min": "16.5",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "666",
+      "station_id": "58666",
+      "station_name": "大陈",
+      "Lon": "121.9",
+      "Lat": "28.45",
+      "TEM_Max": "20.3",
+      "TEM_Min": "16.1",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "667",
+      "station_id": "58667",
+      "station_name": "玉环县坎门街道东山头",
+      "Lon": "121.27",
+      "Lat": "28.08",
+      "TEM_Max": "23.3",
+      "TEM_Min": "16.2",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "668",
+      "station_id": "58742",
+      "station_name": "云和",
+      "Lon": "119.57",
+      "Lat": "28.1",
+      "TEM_Max": "22.3",
+      "TEM_Min": "14.2",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "669",
+      "station_id": "58745",
+      "station_name": "庆元",
+      "Lon": "119.08",
+      "Lat": "27.62",
+      "TEM_Max": "23.3",
+      "TEM_Min": "13.6",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "670",
+      "station_id": "58746",
+      "station_name": "泰顺",
+      "Lon": "119.7",
+      "Lat": "27.55",
+      "TEM_Max": "20.6",
+      "TEM_Min": "12.8",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "671",
+      "station_id": "58750",
+      "station_name": "文成",
+      "Lon": "133.99",
+      "Lat": "34.73",
+      "TEM_Max": "23.2",
+      "TEM_Min": "14.7",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "672",
+      "station_id": "58751",
+      "station_name": "平阳",
+      "Lon": "120.57",
+      "Lat": "27.67",
+      "TEM_Max": "22.8",
+      "TEM_Min": "14.8",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "673",
+      "station_id": "58752",
+      "station_name": "瑞安",
+      "Lon": "120.65",
+      "Lat": "27.79",
+      "TEM_Max": "24.7",
+      "TEM_Min": "17.3",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "674",
+      "station_id": "58755",
+      "station_name": "苍南",
+      "Lon": "120.39",
+      "Lat": "27.5",
+      "TEM_Max": "23",
+      "TEM_Min": "16",
+      "datetime": "3/11/2020 00:00:00"
+    },
+    {
+      "id": "675",
+      "station_id": "58760",
+      "station_name": "洞头",
+      "Lon": "121.15",
+      "Lat": "27.83",
+      "TEM_Max": "21.6",
+      "TEM_Min": "17.4",
+      "datetime": "3/11/2020 00:00:00"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.station.dependence.mapper.StationMapper">
+    <select id="getStations"  parameterType="java.lang.String" resultType="Map">
+        select * from station
+    </select>
+    <select id="getTems"  parameterType="java.lang.String" resultType="Map">
+        SELECT
+            station_id,
+            station_name,
+            TEM_Max,
+            TEM_Min,
+            datetime
+        FROM
+            cimiss_tem
+        WHERE
+            station_id = #{station_id}
+            AND datetime BETWEEN #{start}
+            AND #{end} UNION
+        SELECT
+            station_id,
+            station_name,
+            TEM_Max_24h AS TEM_Max,
+            TEM_Min_24h AS TEM_Min_24h,
+            pretime AS datetime
+        FROM
+            ec_tem
+        WHERE
+            birthtime=(SELECT birthtime from ec_tem ORDER BY birthtime desc LIMIT 1)
+            AND station_id = #{station_id}
+            AND pretime BETWEEN DATE_ADD((select datetime from cimiss_tem order by datetime desc LIMIT 1),INTERVAL 1 DAY)
+            AND #{end}
+    </select>
+    <select id="getAvg"  parameterType="com.station.dependence.entity.StationByTime" resultType="Map">
+        select station_name,TEM,RHU,PRS,PRE,datetime from cimiss where station_id=#{station_id} AND datetime between #{start} AND #{end} UNION
+        select station_name,TEM-273.15,RHU,PRS/100,PRE,pretime AS datetime from huadong WHERE
+            birthtime=(SELECT birthtime from huadong ORDER BY birthtime desc LIMIT 1)
+            AND station_id = #{station_id}
+            AND pretime BETWEEN DATE_ADD((select datetime from cimiss order by datetime desc LIMIT 1),INTERVAL 1 HOUR)
+            AND DATE_ADD((SELECT now()),INTERVAL 1 DAY) UNION
+        select station_name,TEM,RHU,PRS,PRE,pretime AS datetime from ec WHERE
+            birthtime=(SELECT birthtime from ec ORDER BY birthtime desc LIMIT 1)
+            AND station_id = #{station_id}
+            AND pretime BETWEEN DATE_ADD((SELECT now()),INTERVAL 1 DAY)
+            AND #{end}
+    </select>
+</mapper>
